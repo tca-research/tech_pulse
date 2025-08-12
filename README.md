@@ -1,2 +1,2 @@
-# tech_pulse
+# Tech Pulse
 Australian Tech Sector Pulse
