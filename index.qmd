@@ -306,8 +306,12 @@ If you have any questions or queries, please contact:
 <!-- End of sidebar -->
 
 <!-- Start of main content -->
-## ::: {.rows}
 
+::: {.row} 
+
+::: {.columns}
+
+::: {.column width=100%}
 ```{python width='40%' .card}
 to_tech["date"] = pd.to_datetime(to_tech["date"])
 to_tech["month_year"] = to_tech["date"].dt.strftime("%B %Y")
@@ -332,6 +336,8 @@ Flourish(
 
 #save_chart('tech_occupations_timeseries')
 ```
+:::
+
 
 ```{python}
 to_tech_perc_occ = to_tech.groupby(['date', 'tech_occupation']).agg({
@@ -348,7 +354,8 @@ to_tech_perc_occ["month_year"] = to_tech_perc_occ["date"].dt.strftime("%B %Y")
 
 ```
 
-## ::: {.rows}
+
+::: {.column width=100%}
 
 ```{python, .card}
 x = Flourish(
@@ -373,8 +380,11 @@ x
 #save_chart('tech_occupations_timeseries')
 ```
 
+:::
 
-## ::: {.rows}
+:::
+
+::: {.rows}
 ```{python}
 median_salary_levels = pd.read_csv("Data/levels_fyi/au_levelsfyi_detailed_data.csv")
 
