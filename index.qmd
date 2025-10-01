@@ -261,52 +261,6 @@ tech_investment_latest = pd.DataFrame({
 
 <!-- End of main content -->
 
-# International Metrics
-
-
-<!-- Start of sidebar -->
-::: {.sidebar height=100%}
-
-```{python}
-#| content: valuebox
-#| title: "Dashboard last modified:"
-#| icon: calendar-day
-#| color: white
-dict(
-  value = today
-)
-```
-
---- 
-
-![](utils/notify.svg)
-
-:::{.text-center}
-[Subscribe!](https://tca.glueup.com/org/tca/subscriptions/){.btn target="_blank"}
-:::
-
---- 
-
-::: {.card}
-**Tech Council Research**
-
-**Citation:** 
-
-Meers, Zoe, (2025), Tech Pulse Dashboard, `<url>`. 
-
-If you have any questions or queries, please contact:
-**research@techcouncil.com.au**
-
-:::
-
---- 
-
-:::
-<!-- End of sidebar -->
-
-
-<!-- Start of main content -->
-<!-- End of main content -->
 
 # Tech Jobs, Skills & Talent
 
@@ -438,6 +392,57 @@ median_salary_levels_summary['Median Salary'] = median_salary_levels_summary['Sa
     .set_table_details(pagination_amount = 20)
 )
 ```
+
+<!-- End of main content -->
+
+# International Metrics
+
+
+<!-- Start of sidebar -->
+::: {.sidebar height=100%}
+
+```{python}
+#| content: valuebox
+#| title: "Dashboard last modified:"
+#| icon: calendar-day
+#| color: white
+dict(
+  value = today
+)
+```
+
+--- 
+
+![](utils/notify.svg)
+
+:::{.text-center}
+[Subscribe!](https://tca.glueup.com/org/tca/subscriptions/){.btn target="_blank"}
+:::
+
+--- 
+
+::: {.card}
+**Tech Council Research**
+
+**Citation:** 
+
+Meers, Zoe, (2025), Tech Pulse Dashboard, `<url>`. 
+
+If you have any questions or queries, please contact:
+**research@techcouncil.com.au**
+
+:::
+
+--- 
+
+:::
+<!-- End of sidebar -->
+
+
+<!-- Start of main content -->
+## WIP
+
+![](utils/wip.svg){width=75% .mx-auto .d-block}
 
 <!-- End of main content -->
 
