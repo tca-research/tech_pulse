@@ -384,6 +384,7 @@ x
 
 :::
 
+
 ::: {.rows}
 ```{python}
 median_salary_levels = pd.read_csv("Data/levels_fyi/au_levelsfyi_detailed_data.csv")
@@ -402,6 +403,11 @@ median_salary_levels_summary['Median Salary'] = median_salary_levels_summary['Sa
     .set_table_details(pagination_amount = 20)
 )
 ```
+
+:::
+
+:::
+
 
 <!-- End of main content -->
 
