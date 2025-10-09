@@ -125,20 +125,30 @@ Tech Pulse is designed to provide clear, actionable insights for businesses, pol
 
 ```{python .column}
 tech_jobs_latest = pd.DataFrame({
-    'Number of Tech Workers': ['980K'],
-    'Percent of Goal': [75]
+    'Number of Tech Workers': [980506, 944996],
+    'Number of Tech Workers - round': ['980K', '945K'],
+    'Goal': [1200000, 1200000],
+    'Goal Description': ['Tech jobs target'],
+    'Percent of Goal': [82, 78],
+    'Date': ['FY2024', 'FY2023'],
+    'Source Name': ['Department of Industry, Science & Resources Annual Report 2023-2024', 'Department of Industry, Science & Resources Annual Report 2023-2024'],
+    'Source URL': ['https://www.industry.gov.au/sites/default/files/2024-10/disr-annual-report-2023-24.pdf', 'https://www.industry.gov.au/sites/default/files/2024-10/disr-annual-report-2023-24.pdf'],
+    'Source Page': [39, 39]
 })
+
+tech_jobs_latest.to_csv('Data/dashboard/headline_metrics_tech_jobs_total_latest.csv')
+
 (Flourish('pictogram', height = '250px')
   .bind_pictogram_data(
-    data = tech_jobs_latest, 
-    main_category='Number of Tech Workers',
-    icon_id='Number of Tech Workers',
+    data = tech_jobs_latest.iloc[[0]], 
+    main_category='Number of Tech Workers - round',
+    icon_id='Number of Tech Workers - round',
     color='Percent of Goal',
     values='Percent of Goal'
   )
   .set_pictogram_details(
     icon_value=100,
-    chart_color_scale_categorical_custom_palette='75:#7d01e4',
+    chart_color_scale_categorical_custom_palette='82:#7d01e4',
     fill_final_row=True,
     icon_style="solid",
     icons='user',
@@ -160,6 +170,8 @@ tech_jobs_latest = pd.DataFrame({
     chart_layout_source_url='https://techcouncil.com.au/wp-content/uploads/2022/08/2022-Getting-to-1.2-million-report.pdf'
   )
 )
+
+
 ```
 
 ::: 
@@ -169,8 +181,18 @@ tech_jobs_latest = pd.DataFrame({
 ```{python .column}
 gdp_latest = pd.DataFrame({
     'Tech Sector GDP': ['$167M'],
-    'Percent of Goal': [66]
+    'Percent of Goal': [66],
+    'Percent of GDP': [8],
+    'Goal': [250000000],
+    'Goal Description': ['Tech as a $ amount contribution towards the Australian economy'],
+    'Date': ['FY2022'],
+    'Source Name': ["The economic contribution of Australia's tech sector"],
+    'Source URL': ['https://techcouncil.com.au/wp-content/uploads/2021/08/TCA-Tech-sectors-economic-contribution-full-res.pdf'],
+    'Source Page': [8]
 })
+
+gdp_latest.to_csv("Data/dashboard/headline_metrics_gdp_latest.csv")
+
 (Flourish('pictogram', height = '250px')
   .bind_pictogram_data(
     data = gdp_latest, 
@@ -213,16 +235,22 @@ gdp_latest = pd.DataFrame({
 tech_investment_latest = pd.DataFrame({
     'Tech Investment': ['3.9%'],
     'Percent of Goal': [85],
-    'ID':['Australia']
+    'Goal': [4.6],
+    'Goal Description': ['Percent of GDP'],
+    'Date': ['FY2025'],
+    'Source Name': ['Lifting Tech Investment in Australia'],
+    'Source URL': ['https://techcouncil.com.au/wp-content/uploads/Tech-Council-of-Australia-Lifting-Tech-Investment-in-Aus-v5.pdf'],
+    'Source Page': [3]
     })
+
+tech_investment_latest.to_csv('Data/dashboard/headline_metrics_tech_investment_latest.csv')
 
 (Flourish('pictogram', height = '250px')
   .bind_pictogram_data(
     data = tech_investment_latest,
     main_category='Tech Investment',
     color='Percent of Goal',
-    values='Percent of Goal', 
-    icon_id='ID'
+    values='Percent of Goal'
   )
   .set_pictogram_details(
     icon_value=100,
@@ -315,6 +343,8 @@ If you have any questions or queries, please contact:
 ```{python width='40%' .card}
 to_tech["date"] = pd.to_datetime(to_tech["date"])
 to_tech["month_year"] = to_tech["date"].dt.strftime("%B %Y")
+to_tech["Source Name"] = 'ABS Labour Force Survey'
+to_tech["Source URL"] = "https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release"
 Flourish(
    chart_type = "circlepacking"
 ).bind_hierarchy_data(
@@ -334,6 +364,8 @@ Flourish(
     chart_layout_title='Telco occupations have declined since the 1980s as software engineering rises in popularity through the 21st century.'
 )
 
+to_tech.to_csv('Data/dashboard/tech_jobs_occupations_over_time.csv')
+
 #save_chart('tech_occupations_timeseries')
 ```
 :::
@@ -351,6 +383,11 @@ cutoff = pd.to_datetime("2024-02-01")
 to_tech_perc_occ["date"] = pd.to_datetime(to_tech_perc_occ["date"])
 to_tech_perc_occ = to_tech_perc_occ[to_tech_perc_occ["date"] <= cutoff]
 to_tech_perc_occ["month_year"] = to_tech_perc_occ["date"].dt.strftime("%B %Y")
+
+to_tech_perc_occ["Source Name"] = 'ABS Labour Force Survey'
+to_tech_perc_occ["Source URL"] = "https://www.abs.gov.au/statistics/labour/employment-and-unemployment/labour-force-australia/latest-release"
+
+to_tech_perc_occ.to_csv('Data/dashboard/tech_jobs_tech_occupations_as_percent_of_labour_force.csv')
 
 ```
 
@@ -388,8 +425,24 @@ x
 ::: {.rows}
 ```{python}
 median_salary_levels = pd.read_csv("Data/levels_fyi/au_levelsfyi_detailed_data.csv")
+median_salary_levels['Source URL'] = 'levels.fyi'
+median_salary_levels['Source Name'] = 'Levels.FYI'
+median_salary_levels['Source Description'] = 'Self-reported data of tech workers in tech companies.'
 
-median_salary_levels_summary = median_salary_levels[(median_salary_levels['Metric'] == "Summary") & (median_salary_levels['Salary'] > 100) & (median_salary_levels['Label'] == "Median")]
+median_salary_levels['Salary'] = median_salary_levels['Salary'].apply(lambda x: x * 1000 if 10 <= x < 100 else x)
+
+top_companies_pay_role = median_salary_levels[(median_salary_levels['Measurement'] == 'Ranking') & (median_salary_levels['Metric'] == 'Top Company')]
+
+top_location_pay_role = median_salary_levels[(median_salary_levels['Measurement'] == 'Ranking') & (median_salary_levels['Metric'] == 'Top Location')]
+
+median_salary_levels_summary = median_salary_levels[(median_salary_levels['Metric'] == "Summary") & (median_salary_levels['Label'] == "Median")]
+
+salary_levels_summary = median_salary_levels[(median_salary_levels['Metric'] == "Summary")]
+
+top_companies_pay_role.to_csv('Data/dashboard/tech_jobs_top_paying_companies_per_occupation.csv')
+top_location_pay_role.to_csv('Data/dashboard/tech_jobs_top_paying_locations_per_occupation.csv')
+median_salary_levels_summary.to_csv('Data/dashboard/tech_jobs_median_pay_within_level_occupation.csv')
+salary_levels_summary.to_csv('Data/dashboard/tech_jobs_pay_within_percentile_level_occupation.csv')
 
 median_salary_levels_summary['Median Salary'] = median_salary_levels_summary['Salary'].apply(
     lambda x: f"${x:,.0f}"   # no decimals, add commas
