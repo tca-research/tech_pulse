@@ -1,0 +1,97 @@
+,Label,Salary,Job Title,type
+0,Canva,233007,Marketing,Company
+1,Amazon,207202,Marketing,Company
+2,SafetyCulture,141856,Marketing,Company
+3,Rokt,268658,Software Engineer,Company
+4,Google,256699,Software Engineer,Company
+5,Block,255868,Software Engineer,Company
+6,Google,302127,Sales,Company
+7,Microsoft,287767,Sales,Company
+8,Amazon,268838,Sales,Company
+9,Amazon,165275,Information Technologist,Company
+10,Deloitte,132755,Information Technologist,Company
+11,Atlassian,113241,Information Technologist,Company
+12,Amazon,330858,Security Analyst,Company
+13,Google,232194,Security Analyst,Company
+14,Atlassian,170838,Security Analyst,Company
+15,Atlassian,162423,Customer Service,Company
+16,NAB,66426,Customer Service,Company
+17,Woolworths Supermarkets,51461,Customer Service,Company
+18,Atlassian,254974,Product Designer,Company
+19,Google,188116,Product Designer,Company
+20,Canva,182049,Product Designer,Company
+21,ANZ,135972,Data Analyst,Company
+22,Westpac,113376,Data Analyst,Company
+23,Quantium,101160,Data Analyst,Company
+24,Commonwealth Bank,123895,Data Analyst,Company
+25,Microsoft,263357,Technical Program Manager,Company
+26,Amazon,218455,Technical Program Manager,Company
+27,Canva,177105,Technical Program Manager,Company
+28,Perth,123707,Mechanical Engineer,Company
+29,Sydney,106586,Mechanical Engineer,Company
+30,Melbourne,98495,Mechanical Engineer,Company
+31,Atlassian,281124,Product Manager,Company
+32,Google,243902,Product Manager,Company
+33,Amazon,208318,Product Manager,Company
+34,Amazon,296362,Solution Architect,Company
+35,Microsoft,237975,Solution Architect,Company
+36,Telstra,206649,Solution Architect,Company
+37,Amazon,194558,Business Analyst,Company
+38,NAB,127933,Business Analyst,Company
+39,Kearney,123575,Business Analyst,Company
+40,Deloitte,114523,Management Consultant,Company
+41,Simon-Kucher,111970,Management Consultant,Company
+42,Accenture,111281,Management Consultant,Company
+43,Atlassian,269338,Data Scientist,Company
+44,Westpac,181433,Data Scientist,Company
+45,Canva,166374,Data Scientist,Company
+46,Melbourne,106499,Accountant,Company
+47,Sydney,104512,Accountant,Company
+48,Adelaide,64378,Accountant,Company
+49,Melbourne,115848,Financial Analyst,Company
+50,Brisbane,109038,Financial Analyst,Company
+51,Sydney,104911,Financial Analyst,Company
+52,Melbourne,99319,Civil Engineer,Company
+53,Sydney,90858,Civil Engineer,Company
+54,Brisbane,82991,Civil Engineer,Company
+55,Atlassian,444489,Software Engineering Manager,Company
+56,Amazon,314387,Software Engineering Manager,Company
+57,Canva,276425,Software Engineering Manager,Company
+58,Sydney,156003,Software Engineer,Location
+59,Melbourne,131927,Software Engineer,Location
+60,Perth,131201,Software Engineer,Location
+61,Sydney,156123,Software Engineer,Location
+62,Brisbane,232668,Sales,Location
+63,Melbourne,182918,Sales,Location
+64,Sydney,166863,Sales,Location
+65,Perth,137041,Information Technologist,Location
+66,Sydney,113241,Information Technologist,Location
+67,Melbourne,108012,Information Technologist,Location
+68,Brisbane,157918,Security Analyst,Location
+69,Melbourne,142324,Security Analyst,Location
+70,Sydney,134350,Security Analyst,Location
+71,Brisbane,186199,Product Designer,Location
+72,Melbourne,147440,Product Designer,Location
+73,Sydney,126853,Product Designer,Location
+74,Sydney,137084,Data Analyst,Location
+75,Melbourne,127611,Data Analyst,Location
+76,Brisbane,93341,Data Analyst,Location
+77,Sydney,179852,Product Manager,Location
+78,Perth,171451,Product Manager,Location
+79,Melbourne,161774,Product Manager,Location
+80,Sydney,242039,Solution Architect,Location
+81,Brisbane,228153,Solution Architect,Location
+82,Melbourne,212722,Solution Architect,Location
+83,Sydney,239398,Solution Architect,Location
+84,Brisbane,146855,Business Analyst,Location
+85,Melbourne,128744,Business Analyst,Location
+86,Sydney,114538,Business Analyst,Location
+87,Sydney,118208,Management Consultant,Location
+88,Canberra,116975,Management Consultant,Location
+89,Melbourne,97333,Management Consultant,Location
+90,Melbourne,172940,Data Scientist,Location
+91,Sydney,160884,Data Scientist,Location
+92,Perth,124841,Data Scientist,Location
+93,Sydney,237368,Software Engineering Manager,Location
+94,Melbourne,215215,Software Engineering Manager,Location
+95,Brisbane,193700,Software Engineering Manager,Location

@@ -1,0 +1,47 @@
+,Label,Salary,Job Title
+4,Canva,233007,Marketing
+5,Amazon,207202,Marketing
+6,SafetyCulture,141856,Marketing
+44,Rokt,268658,Software Engineer
+45,Google,256699,Software Engineer
+46,Block,255868,Software Engineer
+74,Google,302127,Sales
+75,Microsoft,287767,Sales
+76,Amazon,268838,Sales
+89,Amazon,165275,Information Technologist
+90,Deloitte,132755,Information Technologist
+91,Atlassian,113241,Information Technologist
+128,Amazon,330858,Security Analyst
+129,Google,232194,Security Analyst
+130,Atlassian,170838,Security Analyst
+158,Atlassian,162423,Customer Service
+159,NAB,66426,Customer Service
+160,Woolworths Supermarkets,51461,Customer Service
+165,Atlassian,254974,Product Designer
+166,Google,188116,Product Designer
+167,Canva,182049,Product Designer
+217,ANZ,135972,Data Analyst
+218,Westpac,113376,Data Analyst
+219,Quantium,101160,Data Analyst
+228,Commonwealth Bank,123895,Data Analyst
+247,Microsoft,263357,Technical Program Manager
+248,Amazon,218455,Technical Program Manager
+249,Canva,177105,Technical Program Manager
+313,Atlassian,281124,Product Manager
+314,Google,243902,Product Manager
+315,Amazon,208318,Product Manager
+351,Amazon,296362,Solution Architect
+352,Microsoft,237975,Solution Architect
+353,Telstra,206649,Solution Architect
+381,Amazon,194558,Business Analyst
+382,NAB,127933,Business Analyst
+383,Kearney,123575,Business Analyst
+420,Deloitte,114523,Management Consultant
+421,Simon-Kucher,111970,Management Consultant
+422,Accenture,111281,Management Consultant
+464,Atlassian,269338,Data Scientist
+465,Westpac,181433,Data Scientist
+466,Canva,166374,Data Scientist
+571,Atlassian,444489,Software Engineering Manager
+572,Amazon,314387,Software Engineering Manager
+573,Canva,276425,Software Engineering Manager
