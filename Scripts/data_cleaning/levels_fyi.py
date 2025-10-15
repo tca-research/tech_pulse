@@ -113,7 +113,7 @@ if __name__ == "__main__":
         except Exception:
             entry["data_exists"] = "No data available"
 
-    os.makedirs("Data/levels_fyi", exist_ok=True)
+    os.makedirs("Data/input/tech_sector_salaries/levels_fyi", exist_ok=True)
     with open("Data/input/tech_sector_salaries/levels_fyi/au_levelsfyi_urls_with_data_flags.csv", "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=["URL", "job_title", "level", "country", "data_exists"])
         writer.writeheader()

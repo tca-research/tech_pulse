@@ -1,590 +1,609 @@
 Metric,Measurement,Rank Order,Label,Salary,Job Title,Level,Country,URL
-Summary,Percentile,,Median,151874,Marketing,All,Australia,https://www.levels.fyi/en-gb/t/marketing/locations/australia
-Summary,Percentile,,25th,123000,Marketing,All,Australia,https://www.levels.fyi/en-gb/t/marketing/locations/australia
-Summary,Percentile,,75th,196000,Marketing,All,Australia,https://www.levels.fyi/en-gb/t/marketing/locations/australia
-Summary,Percentile,,90th,229000,Marketing,All,Australia,https://www.levels.fyi/en-gb/t/marketing/locations/australia
-Top Company,Ranking,1,Canva,233007,Marketing,All,Australia,https://www.levels.fyi/en-gb/t/marketing/locations/australia
-Top Company,Ranking,2,Amazon,207202,Marketing,All,Australia,https://www.levels.fyi/en-gb/t/marketing/locations/australia
-Top Company,Ranking,3,SafetyCulture,141856,Marketing,All,Australia,https://www.levels.fyi/en-gb/t/marketing/locations/australia
-Summary,Percentile,,Median,215308,Product Design Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-design-manager/locations/australia
-Summary,Percentile,,25th,190000,Product Design Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-design-manager/locations/australia
-Summary,Percentile,,75th,246000,Product Design Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-design-manager/locations/australia
-Summary,Percentile,,90th,307000,Product Design Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-design-manager/locations/australia
-Summary,Percentile,,Median,215308,Product Design Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-design-manager/levels/senior/locations/australia
-Summary,Percentile,,25th,190000,Product Design Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-design-manager/levels/senior/locations/australia
-Summary,Percentile,,75th,246000,Product Design Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-design-manager/levels/senior/locations/australia
-Summary,Percentile,,90th,307000,Product Design Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-design-manager/levels/senior/locations/australia
-Summary,Percentile,,Median,120512,Hardware Engineer,All,Australia,https://www.levels.fyi/en-gb/t/hardware-engineer/locations/australia
-Summary,Percentile,,25th,92,Hardware Engineer,All,Australia,https://www.levels.fyi/en-gb/t/hardware-engineer/locations/australia
-Summary,Percentile,,75th,141000,Hardware Engineer,All,Australia,https://www.levels.fyi/en-gb/t/hardware-engineer/locations/australia
-Summary,Percentile,,90th,220000,Hardware Engineer,All,Australia,https://www.levels.fyi/en-gb/t/hardware-engineer/locations/australia
-Summary,Percentile,,Median,78211,Hardware Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/hardware-engineer/levels/entry-level/locations/australia
-Summary,Percentile,,Median,201536,Hardware Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/hardware-engineer/levels/senior/locations/australia
-Summary,Percentile,,Median,137145,Marketing Operations,All,Australia,https://www.levels.fyi/en-gb/t/marketing-operations/locations/australia
-Summary,Percentile,,25th,106000,Marketing Operations,All,Australia,https://www.levels.fyi/en-gb/t/marketing-operations/locations/australia
-Summary,Percentile,,75th,148000,Marketing Operations,All,Australia,https://www.levels.fyi/en-gb/t/marketing-operations/locations/australia
-Summary,Percentile,,90th,168000,Marketing Operations,All,Australia,https://www.levels.fyi/en-gb/t/marketing-operations/locations/australia
-Summary,Percentile,,Median,140368,Marketing Operations,Senior,Australia,https://www.levels.fyi/en-gb/t/marketing-operations/levels/senior/locations/australia
-Summary,Percentile,,Median,90065,Technical Writer,All,Australia,https://www.levels.fyi/en-gb/t/technical-writer/locations/australia
-Summary,Percentile,,Median,201531,Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/program-manager/locations/australia
-Summary,Percentile,,25th,171000,Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/program-manager/locations/australia
-Summary,Percentile,,75th,241000,Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/program-manager/locations/australia
-Summary,Percentile,,90th,288000,Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/program-manager/locations/australia
-Summary,Percentile,,Median,201531,Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/program-manager/levels/senior/locations/australia
-Summary,Percentile,,25th,174000,Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/program-manager/levels/senior/locations/australia
-Summary,Percentile,,75th,241000,Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/program-manager/levels/senior/locations/australia
-Summary,Percentile,,90th,288000,Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/program-manager/levels/senior/locations/australia
-Summary,Percentile,,Median,148402,Actuary,All,Australia,https://www.levels.fyi/en-gb/t/actuary/locations/australia
-Summary,Percentile,,Median,97806,Electrical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/electrical-engineer/locations/australia
-Summary,Percentile,,25th,77,Electrical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/electrical-engineer/locations/australia
-Summary,Percentile,,75th,113000,Electrical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/electrical-engineer/locations/australia
-Summary,Percentile,,90th,126000,Electrical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/electrical-engineer/locations/australia
-Summary,Percentile,,Median,150100,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
-Summary,Percentile,,25th,113000,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
-Summary,Percentile,,75th,188000,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
-Summary,Percentile,,90th,235000,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
-Top Company,Ranking,1,Rokt,268658,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
-Top Company,Ranking,2,Google,256699,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
-Top Company,Ranking,3,Block,255868,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
-Top Location,Ranking,1,Sydney,156003,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
-Top Location,Ranking,2,Melbourne,131927,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
-Top Location,Ranking,3,Perth,131201,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
-Summary,Percentile,,Median,93211,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
-Summary,Percentile,,25th,81,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
-Summary,Percentile,,75th,126000,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
-Summary,Percentile,,90th,157000,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
-Top Company,Ranking,1,Rokt,268658,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
-Top Company,Ranking,2,Google,256699,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
-Top Company,Ranking,3,Block,255868,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
-Top Location,Ranking,1,Sydney,156123,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
-Top Location,Ranking,2,Melbourne,131927,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
-Top Location,Ranking,3,Perth,131201,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
-Summary,Percentile,,Median,181987,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
-Summary,Percentile,,25th,155000,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
-Summary,Percentile,,75th,225000,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
-Summary,Percentile,,90th,283000,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
-Top Company,Ranking,1,Rokt,268658,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
-Top Company,Ranking,2,Google,256699,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
-Top Company,Ranking,3,Block,255868,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
-Top Location,Ranking,1,Sydney,156003,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
-Top Location,Ranking,2,Melbourne,131927,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
-Top Location,Ranking,3,Perth,131201,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
-Summary,Percentile,,Median,198492,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
-Summary,Percentile,,25th,124000,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
-Summary,Percentile,,75th,275000,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
-Summary,Percentile,,90th,392000,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
-Top Company,Ranking,1,Google,302127,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
-Top Company,Ranking,2,Microsoft,287767,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
-Top Company,Ranking,3,Amazon,268838,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
-Top Location,Ranking,1,Brisbane,232668,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
-Top Location,Ranking,2,Melbourne,182918,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
-Top Location,Ranking,3,Sydney,166863,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
-Summary,Percentile,,Median,137107,Venture Capitalist,All,Australia,https://www.levels.fyi/en-gb/t/venture-capitalist/locations/australia
-Summary,Percentile,,25th,126000,Venture Capitalist,All,Australia,https://www.levels.fyi/en-gb/t/venture-capitalist/locations/australia
-Summary,Percentile,,75th,209000,Venture Capitalist,All,Australia,https://www.levels.fyi/en-gb/t/venture-capitalist/locations/australia
-Summary,Percentile,,90th,244000,Venture Capitalist,All,Australia,https://www.levels.fyi/en-gb/t/venture-capitalist/locations/australia
-Summary,Percentile,,Median,219956,Chief Of Staff,All,Australia,https://www.levels.fyi/en-gb/t/chief-of-staff/locations/australia
-Summary,Percentile,,Median,108012,Information Technologist,All,Australia,https://www.levels.fyi/en-gb/t/information-technologist/locations/australia
-Summary,Percentile,,25th,81,Information Technologist,All,Australia,https://www.levels.fyi/en-gb/t/information-technologist/locations/australia
-Summary,Percentile,,75th,151000,Information Technologist,All,Australia,https://www.levels.fyi/en-gb/t/information-technologist/locations/australia
-Summary,Percentile,,90th,191000,Information Technologist,All,Australia,https://www.levels.fyi/en-gb/t/information-technologist/locations/australia
-Top Company,Ranking,1,Amazon,165275,Information Technologist,All,Australia,https://www.levels.fyi/en-gb/t/information-technologist/locations/australia
-Top Company,Ranking,2,Deloitte,132755,Information Technologist,All,Australia,https://www.levels.fyi/en-gb/t/information-technologist/locations/australia
-Top Company,Ranking,3,Atlassian,113241,Information Technologist,All,Australia,https://www.levels.fyi/en-gb/t/information-technologist/locations/australia
-Top Location,Ranking,1,Perth,137041,Information Technologist,All,Australia,https://www.levels.fyi/en-gb/t/information-technologist/locations/australia
-Top Location,Ranking,2,Sydney,113241,Information Technologist,All,Australia,https://www.levels.fyi/en-gb/t/information-technologist/locations/australia
-Top Location,Ranking,3,Melbourne,108012,Information Technologist,All,Australia,https://www.levels.fyi/en-gb/t/information-technologist/locations/australia
-Summary,Percentile,,Median,79291,Information Technologist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/entry-level/locations/australia
-Summary,Percentile,,25th,73,Information Technologist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/entry-level/locations/australia
-Summary,Percentile,,75th,85,Information Technologist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/entry-level/locations/australia
-Summary,Percentile,,90th,124000,Information Technologist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/entry-level/locations/australia
-Top Company,Ranking,1,Amazon,165275,Information Technologist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/entry-level/locations/australia
-Top Company,Ranking,2,Deloitte,132755,Information Technologist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/entry-level/locations/australia
-Top Company,Ranking,3,Atlassian,113241,Information Technologist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/entry-level/locations/australia
-Top Location,Ranking,1,Perth,137041,Information Technologist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/entry-level/locations/australia
-Top Location,Ranking,2,Sydney,113241,Information Technologist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/entry-level/locations/australia
-Top Location,Ranking,3,Melbourne,108012,Information Technologist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/entry-level/locations/australia
-Summary,Percentile,,Median,149778,Information Technologist,Senior,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/senior/locations/australia
-Summary,Percentile,,25th,116000,Information Technologist,Senior,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/senior/locations/australia
-Summary,Percentile,,75th,191000,Information Technologist,Senior,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/senior/locations/australia
-Summary,Percentile,,90th,238000,Information Technologist,Senior,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/senior/locations/australia
-Top Company,Ranking,1,Amazon,165275,Information Technologist,Senior,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/senior/locations/australia
-Top Company,Ranking,2,Deloitte,132755,Information Technologist,Senior,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/senior/locations/australia
-Top Company,Ranking,3,Atlassian,113241,Information Technologist,Senior,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/senior/locations/australia
-Top Location,Ranking,1,Perth,137041,Information Technologist,Senior,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/senior/locations/australia
-Top Location,Ranking,2,Sydney,113241,Information Technologist,Senior,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/senior/locations/australia
-Top Location,Ranking,3,Melbourne,108012,Information Technologist,Senior,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/senior/locations/australia
-Summary,Percentile,,Median,145164,Legal,All,Australia,https://www.levels.fyi/en-gb/t/legal/locations/australia
-Summary,Percentile,,25th,122000,Legal,All,Australia,https://www.levels.fyi/en-gb/t/legal/locations/australia
-Summary,Percentile,,75th,179000,Legal,All,Australia,https://www.levels.fyi/en-gb/t/legal/locations/australia
-Summary,Percentile,,90th,208000,Legal,All,Australia,https://www.levels.fyi/en-gb/t/legal/locations/australia
-Summary,Percentile,,Median,124455,Graphic Designer,All,Australia,https://www.levels.fyi/en-gb/t/graphic-designer/locations/australia
+Summary,Percentile,,Median,122632,Graphic Designer,All,Australia,https://www.levels.fyi/en-gb/t/graphic-designer/locations/australia
 Summary,Percentile,,25th,96,Graphic Designer,All,Australia,https://www.levels.fyi/en-gb/t/graphic-designer/locations/australia
-Summary,Percentile,,75th,154000,Graphic Designer,All,Australia,https://www.levels.fyi/en-gb/t/graphic-designer/locations/australia
-Summary,Percentile,,90th,163000,Graphic Designer,All,Australia,https://www.levels.fyi/en-gb/t/graphic-designer/locations/australia
-Summary,Percentile,,Median,153599,Graphic Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/graphic-designer/levels/senior/locations/australia
-Summary,Percentile,,Median,139693,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
-Summary,Percentile,,25th,100000,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
-Summary,Percentile,,75th,171000,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
-Summary,Percentile,,90th,272000,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
-Top Company,Ranking,1,Amazon,330858,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
-Top Company,Ranking,2,Google,232194,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
-Top Company,Ranking,3,Atlassian,170838,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
-Top Location,Ranking,1,Brisbane,157918,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
-Top Location,Ranking,2,Melbourne,142324,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
-Top Location,Ranking,3,Sydney,134350,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
-Summary,Percentile,,Median,77021,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
-Summary,Percentile,,25th,65000,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
-Summary,Percentile,,75th,77,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
-Summary,Percentile,,90th,82,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
-Top Company,Ranking,1,Amazon,330858,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
-Top Company,Ranking,2,Google,232194,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
-Top Company,Ranking,3,Atlassian,170838,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
-Top Location,Ranking,1,Brisbane,157918,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
-Top Location,Ranking,2,Melbourne,142324,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
-Top Location,Ranking,3,Sydney,134350,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
-Summary,Percentile,,Median,210496,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
-Summary,Percentile,,25th,166000,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
-Summary,Percentile,,75th,275000,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
-Summary,Percentile,,90th,357000,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
-Top Company,Ranking,1,Amazon,330858,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
-Top Company,Ranking,2,Google,232194,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
-Top Company,Ranking,3,Atlassian,170838,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
-Top Location,Ranking,1,Brisbane,157918,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
-Top Location,Ranking,2,Melbourne,142324,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
-Top Location,Ranking,3,Sydney,134350,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
-Summary,Percentile,,Median,73934,Customer Service,All,Australia,https://www.levels.fyi/en-gb/t/customer-service/locations/australia
-Summary,Percentile,,25th,61,Customer Service,All,Australia,https://www.levels.fyi/en-gb/t/customer-service/locations/australia
-Summary,Percentile,,75th,101000,Customer Service,All,Australia,https://www.levels.fyi/en-gb/t/customer-service/locations/australia
-Summary,Percentile,,90th,164000,Customer Service,All,Australia,https://www.levels.fyi/en-gb/t/customer-service/locations/australia
-Top Company,Ranking,1,Atlassian,162423,Customer Service,All,Australia,https://www.levels.fyi/en-gb/t/customer-service/locations/australia
-Top Company,Ranking,2,NAB,66426,Customer Service,All,Australia,https://www.levels.fyi/en-gb/t/customer-service/locations/australia
-Top Company,Ranking,3,Woolworths Supermarkets,51461,Customer Service,All,Australia,https://www.levels.fyi/en-gb/t/customer-service/locations/australia
-Summary,Percentile,,Median,148433,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
-Summary,Percentile,,25th,123000,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
-Summary,Percentile,,75th,181000,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
-Summary,Percentile,,90th,203000,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
-Top Company,Ranking,1,Atlassian,254974,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
-Top Company,Ranking,2,Google,188116,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
-Top Company,Ranking,3,Canva,182049,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
-Top Location,Ranking,1,Brisbane,186199,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
-Top Location,Ranking,2,Melbourne,147440,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
-Top Location,Ranking,3,Sydney,126853,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
-Summary,Percentile,,Median,86728,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
-Summary,Percentile,,25th,79000,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
-Summary,Percentile,,75th,99,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
-Summary,Percentile,,90th,122000,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
-Top Company,Ranking,1,Atlassian,254974,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
-Top Company,Ranking,2,Google,188116,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
-Top Company,Ranking,3,Canva,182049,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
-Top Location,Ranking,1,Brisbane,186199,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
-Top Location,Ranking,2,Melbourne,147440,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
-Top Location,Ranking,3,Sydney,126853,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
-Summary,Percentile,,Median,161185,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
-Summary,Percentile,,25th,147000,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
-Summary,Percentile,,75th,199000,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
-Summary,Percentile,,90th,222000,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
-Top Company,Ranking,1,Atlassian,254974,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
-Top Company,Ranking,2,Google,188116,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
-Top Company,Ranking,3,Canva,182049,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
-Top Location,Ranking,1,Brisbane,186199,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
-Top Location,Ranking,2,Melbourne,147440,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
-Top Location,Ranking,3,Sydney,126853,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
-Summary,Percentile,,Median,137719,Ux Researcher,All,Australia,https://www.levels.fyi/en-gb/t/ux-researcher/locations/australia
-Summary,Percentile,,25th,104000,Ux Researcher,All,Australia,https://www.levels.fyi/en-gb/t/ux-researcher/locations/australia
-Summary,Percentile,,75th,218000,Ux Researcher,All,Australia,https://www.levels.fyi/en-gb/t/ux-researcher/locations/australia
-Summary,Percentile,,90th,298000,Ux Researcher,All,Australia,https://www.levels.fyi/en-gb/t/ux-researcher/locations/australia
-Summary,Percentile,,Median,155654,Ux Researcher,Senior,Australia,https://www.levels.fyi/en-gb/t/ux-researcher/levels/senior/locations/australia
-Summary,Percentile,,Median,149607,Recruiter,All,Australia,https://www.levels.fyi/en-gb/t/recruiter/locations/australia
-Summary,Percentile,,25th,146000,Recruiter,All,Australia,https://www.levels.fyi/en-gb/t/recruiter/locations/australia
-Summary,Percentile,,75th,165000,Recruiter,All,Australia,https://www.levels.fyi/en-gb/t/recruiter/locations/australia
-Summary,Percentile,,90th,200000,Recruiter,All,Australia,https://www.levels.fyi/en-gb/t/recruiter/locations/australia
-Summary,Percentile,,Median,149607,Recruiter,Senior,Australia,https://www.levels.fyi/en-gb/t/recruiter/levels/senior/locations/australia
-Summary,Percentile,,25th,146000,Recruiter,Senior,Australia,https://www.levels.fyi/en-gb/t/recruiter/levels/senior/locations/australia
-Summary,Percentile,,75th,165000,Recruiter,Senior,Australia,https://www.levels.fyi/en-gb/t/recruiter/levels/senior/locations/australia
-Summary,Percentile,,90th,200000,Recruiter,Senior,Australia,https://www.levels.fyi/en-gb/t/recruiter/levels/senior/locations/australia
-Summary,Percentile,,Median,244163,Business Development,All,Australia,https://www.levels.fyi/en-gb/t/business-development/locations/australia
-Summary,Percentile,,25th,155000,Business Development,All,Australia,https://www.levels.fyi/en-gb/t/business-development/locations/australia
-Summary,Percentile,,75th,323000,Business Development,All,Australia,https://www.levels.fyi/en-gb/t/business-development/locations/australia
-Summary,Percentile,,90th,376000,Business Development,All,Australia,https://www.levels.fyi/en-gb/t/business-development/locations/australia
-Summary,Percentile,,Median,77163,Business Development,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-development/levels/entry-level/locations/australia
-Summary,Percentile,,Median,298054,Business Development,Senior,Australia,https://www.levels.fyi/en-gb/t/business-development/levels/senior/locations/australia
-Summary,Percentile,,25th,167000,Business Development,Senior,Australia,https://www.levels.fyi/en-gb/t/business-development/levels/senior/locations/australia
-Summary,Percentile,,75th,333000,Business Development,Senior,Australia,https://www.levels.fyi/en-gb/t/business-development/levels/senior/locations/australia
-Summary,Percentile,,90th,376000,Business Development,Senior,Australia,https://www.levels.fyi/en-gb/t/business-development/levels/senior/locations/australia
-Summary,Percentile,,Median,119283,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
-Summary,Percentile,,25th,105000,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
-Summary,Percentile,,75th,139000,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
-Summary,Percentile,,90th,155000,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
-Top Company,Ranking,1,ANZ,135972,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
-Top Company,Ranking,2,Westpac,113376,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
-Top Company,Ranking,3,Quantium,101160,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
-Top Location,Ranking,1,Sydney,137084,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
-Top Location,Ranking,2,Melbourne,127611,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
-Top Location,Ranking,3,Brisbane,93341,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
-Summary,Percentile,,Median,93341,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
-Summary,Percentile,,25th,80000,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
-Summary,Percentile,,75th,111000,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
-Summary,Percentile,,90th,114000,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
-Top Company,Ranking,1,ANZ,135972,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
-Top Company,Ranking,2,Commonwealth Bank,123895,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
-Top Company,Ranking,3,Westpac,113376,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
-Top Location,Ranking,1,Sydney,137084,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
-Top Location,Ranking,2,Melbourne,127611,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
-Top Location,Ranking,3,Brisbane,93341,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
-Summary,Percentile,,Median,142254,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
-Summary,Percentile,,25th,125000,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
-Summary,Percentile,,75th,165000,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
-Summary,Percentile,,90th,183000,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
-Top Company,Ranking,1,ANZ,135972,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
-Top Company,Ranking,2,Westpac,113376,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
-Top Company,Ranking,3,Quantium,101160,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
-Top Location,Ranking,1,Sydney,137084,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
-Top Location,Ranking,2,Melbourne,127611,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
-Top Location,Ranking,3,Brisbane,93341,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
-Summary,Percentile,,Median,211120,Technical Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/locations/australia
-Summary,Percentile,,25th,170000,Technical Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/locations/australia
-Summary,Percentile,,75th,275000,Technical Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/locations/australia
-Summary,Percentile,,90th,350000,Technical Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/locations/australia
-Top Company,Ranking,1,Microsoft,263357,Technical Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/locations/australia
-Top Company,Ranking,2,Amazon,218455,Technical Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/locations/australia
-Top Company,Ranking,3,Canva,177105,Technical Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/locations/australia
-Summary,Percentile,,Median,221086,Technical Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/levels/senior/locations/australia
-Summary,Percentile,,25th,184000,Technical Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/levels/senior/locations/australia
-Summary,Percentile,,75th,280000,Technical Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/levels/senior/locations/australia
-Summary,Percentile,,90th,350000,Technical Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/levels/senior/locations/australia
-Top Company,Ranking,1,Microsoft,263357,Technical Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/levels/senior/locations/australia
-Top Company,Ranking,2,Amazon,218455,Technical Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/levels/senior/locations/australia
-Top Company,Ranking,3,Canva,177105,Technical Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/levels/senior/locations/australia
-Summary,Percentile,,Median,71436,Administrative Assistant,All,Australia,https://www.levels.fyi/en-gb/t/administrative-assistant/locations/australia
-Summary,Percentile,,25th,61,Administrative Assistant,All,Australia,https://www.levels.fyi/en-gb/t/administrative-assistant/locations/australia
-Summary,Percentile,,75th,82,Administrative Assistant,All,Australia,https://www.levels.fyi/en-gb/t/administrative-assistant/locations/australia
-Summary,Percentile,,90th,99,Administrative Assistant,All,Australia,https://www.levels.fyi/en-gb/t/administrative-assistant/locations/australia
-Summary,Percentile,,Median,61934,Administrative Assistant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/administrative-assistant/levels/entry-level/locations/australia
-Summary,Percentile,,25th,50,Administrative Assistant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/administrative-assistant/levels/entry-level/locations/australia
-Summary,Percentile,,75th,74000,Administrative Assistant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/administrative-assistant/levels/entry-level/locations/australia
-Summary,Percentile,,90th,108000,Administrative Assistant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/administrative-assistant/levels/entry-level/locations/australia
-Summary,Percentile,,Median,83885,Administrative Assistant,Senior,Australia,https://www.levels.fyi/en-gb/t/administrative-assistant/levels/senior/locations/australia
-Summary,Percentile,,Median,162771,Customer Success,All,Australia,https://www.levels.fyi/en-gb/t/customer-success/locations/australia
-Summary,Percentile,,25th,130000,Customer Success,All,Australia,https://www.levels.fyi/en-gb/t/customer-success/locations/australia
-Summary,Percentile,,75th,292000,Customer Success,All,Australia,https://www.levels.fyi/en-gb/t/customer-success/locations/australia
-Summary,Percentile,,90th,303000,Customer Success,All,Australia,https://www.levels.fyi/en-gb/t/customer-success/locations/australia
-Summary,Percentile,,Median,183146,Customer Success,Senior,Australia,https://www.levels.fyi/en-gb/t/customer-success/levels/senior/locations/australia
-Summary,Percentile,,25th,137000,Customer Success,Senior,Australia,https://www.levels.fyi/en-gb/t/customer-success/levels/senior/locations/australia
-Summary,Percentile,,75th,303000,Customer Success,Senior,Australia,https://www.levels.fyi/en-gb/t/customer-success/levels/senior/locations/australia
-Summary,Percentile,,90th,309000,Customer Success,Senior,Australia,https://www.levels.fyi/en-gb/t/customer-success/levels/senior/locations/australia
-Summary,Percentile,,Median,152426,People Ops,All,Australia,https://www.levels.fyi/en-gb/t/people-ops/locations/australia
-Summary,Percentile,,25th,99,People Ops,All,Australia,https://www.levels.fyi/en-gb/t/people-ops/locations/australia
-Summary,Percentile,,75th,175000,People Ops,All,Australia,https://www.levels.fyi/en-gb/t/people-ops/locations/australia
-Summary,Percentile,,90th,276000,People Ops,All,Australia,https://www.levels.fyi/en-gb/t/people-ops/locations/australia
-Summary,Percentile,,Median,164448,People Ops,Senior,Australia,https://www.levels.fyi/en-gb/t/people-ops/levels/senior/locations/australia
-Summary,Percentile,,Median,116786,Mechanical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/locations/australia
-Summary,Percentile,,25th,91000,Mechanical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/locations/australia
-Summary,Percentile,,75th,137000,Mechanical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/locations/australia
-Summary,Percentile,,90th,187000,Mechanical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/locations/australia
-Top Company,Ranking,1,Perth,123707,Mechanical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/locations/australia
-Top Company,Ranking,2,Sydney,106586,Mechanical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/locations/australia
-Top Company,Ranking,3,Melbourne,98495,Mechanical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/locations/australia
-Summary,Percentile,,Median,74861,Mechanical Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/entry-level/locations/australia
-Summary,Percentile,,25th,72,Mechanical Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/entry-level/locations/australia
-Summary,Percentile,,75th,80,Mechanical Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/entry-level/locations/australia
-Summary,Percentile,,90th,83,Mechanical Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/entry-level/locations/australia
-Top Company,Ranking,1,Perth,123707,Mechanical Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/entry-level/locations/australia
-Top Company,Ranking,2,Sydney,106586,Mechanical Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/entry-level/locations/australia
-Top Company,Ranking,3,Melbourne,98495,Mechanical Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/entry-level/locations/australia
-Summary,Percentile,,Median,130711,Mechanical Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/senior/locations/australia
-Summary,Percentile,,25th,107000,Mechanical Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/senior/locations/australia
-Summary,Percentile,,75th,194000,Mechanical Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/senior/locations/australia
-Summary,Percentile,,90th,204000,Mechanical Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/senior/locations/australia
-Top Company,Ranking,1,Perth,123707,Mechanical Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/senior/locations/australia
-Top Company,Ranking,2,Sydney,106586,Mechanical Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/senior/locations/australia
-Top Company,Ranking,3,Melbourne,98495,Mechanical Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/senior/locations/australia
-Summary,Percentile,,Median,130284,Biz Ops,All,Australia,https://www.levels.fyi/en-gb/t/biz-ops/locations/australia
-Summary,Percentile,,25th,90,Biz Ops,All,Australia,https://www.levels.fyi/en-gb/t/biz-ops/locations/australia
-Summary,Percentile,,75th,150000,Biz Ops,All,Australia,https://www.levels.fyi/en-gb/t/biz-ops/locations/australia
-Summary,Percentile,,90th,177000,Biz Ops,All,Australia,https://www.levels.fyi/en-gb/t/biz-ops/locations/australia
-Summary,Percentile,,Median,78548,Biz Ops,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/biz-ops/levels/entry-level/locations/australia
-Summary,Percentile,,Median,149717,Biz Ops,Senior,Australia,https://www.levels.fyi/en-gb/t/biz-ops/levels/senior/locations/australia
-Summary,Percentile,,25th,142000,Biz Ops,Senior,Australia,https://www.levels.fyi/en-gb/t/biz-ops/levels/senior/locations/australia
-Summary,Percentile,,75th,177000,Biz Ops,Senior,Australia,https://www.levels.fyi/en-gb/t/biz-ops/levels/senior/locations/australia
-Summary,Percentile,,90th,437000,Biz Ops,Senior,Australia,https://www.levels.fyi/en-gb/t/biz-ops/levels/senior/locations/australia
-Summary,Percentile,,Median,178921,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
-Summary,Percentile,,25th,155000,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
-Summary,Percentile,,75th,212000,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
-Summary,Percentile,,90th,269000,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
-Top Company,Ranking,1,Atlassian,281124,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
-Top Company,Ranking,2,Google,243902,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
-Top Company,Ranking,3,Amazon,208318,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
-Top Location,Ranking,1,Sydney,179852,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
-Top Location,Ranking,2,Perth,171451,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
-Top Location,Ranking,3,Melbourne,161774,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
-Summary,Percentile,,Median,123076,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
-Summary,Percentile,,25th,104000,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
-Summary,Percentile,,75th,164000,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
-Summary,Percentile,,90th,201000,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
-Top Company,Ranking,1,Atlassian,281124,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
-Top Company,Ranking,2,Google,243902,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
-Top Company,Ranking,3,Amazon,208318,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
-Top Location,Ranking,1,Sydney,179852,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
-Top Location,Ranking,2,Perth,171451,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
-Top Location,Ranking,3,Melbourne,161774,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
-Summary,Percentile,,Median,196070,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
-Summary,Percentile,,25th,170000,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
-Summary,Percentile,,75th,222000,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
-Summary,Percentile,,90th,295000,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
-Top Company,Ranking,1,Atlassian,281124,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
-Top Company,Ranking,2,Google,243902,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
-Top Company,Ranking,3,Amazon,208318,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
-Top Location,Ranking,1,Sydney,179852,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
-Top Location,Ranking,2,Perth,171451,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
-Top Location,Ranking,3,Melbourne,161774,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
-Summary,Percentile,,Median,158188,Bizops Manager,All,Australia,https://www.levels.fyi/en-gb/t/bizops-manager/locations/australia
-Summary,Percentile,,25th,101000,Bizops Manager,All,Australia,https://www.levels.fyi/en-gb/t/bizops-manager/locations/australia
-Summary,Percentile,,75th,189000,Bizops Manager,All,Australia,https://www.levels.fyi/en-gb/t/bizops-manager/locations/australia
-Summary,Percentile,,90th,265000,Bizops Manager,All,Australia,https://www.levels.fyi/en-gb/t/bizops-manager/locations/australia
-Summary,Percentile,,Median,175295,Bizops Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/bizops-manager/levels/senior/locations/australia
-Summary,Percentile,,25th,144000,Bizops Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/bizops-manager/levels/senior/locations/australia
-Summary,Percentile,,75th,265000,Bizops Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/bizops-manager/levels/senior/locations/australia
-Summary,Percentile,,90th,280000,Bizops Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/bizops-manager/levels/senior/locations/australia
-Summary,Percentile,,Median,221079,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
-Summary,Percentile,,25th,183000,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
-Summary,Percentile,,75th,264000,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
-Summary,Percentile,,90th,323000,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
-Top Company,Ranking,1,Amazon,296362,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
-Top Company,Ranking,2,Microsoft,237975,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
-Top Company,Ranking,3,Telstra,206649,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
-Top Location,Ranking,1,Sydney,242039,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
-Top Location,Ranking,2,Brisbane,228153,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
-Top Location,Ranking,3,Melbourne,212722,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
-Summary,Percentile,,Median,124480,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
-Summary,Percentile,,25th,91,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
-Summary,Percentile,,75th,145000,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
-Summary,Percentile,,90th,157000,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
-Top Company,Ranking,1,Amazon,296362,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
-Top Company,Ranking,2,Microsoft,237975,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
-Top Company,Ranking,3,Telstra,206649,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
-Top Location,Ranking,1,Sydney,239398,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
-Top Location,Ranking,2,Brisbane,228153,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
-Top Location,Ranking,3,Melbourne,212722,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
-Summary,Percentile,,Median,228153,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
-Summary,Percentile,,25th,192000,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
-Summary,Percentile,,75th,268000,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
-Summary,Percentile,,90th,323000,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
-Top Company,Ranking,1,Amazon,296362,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
-Top Company,Ranking,2,Microsoft,237975,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
-Top Company,Ranking,3,Telstra,206649,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
-Top Location,Ranking,1,Sydney,242039,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
-Top Location,Ranking,2,Brisbane,228153,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
-Top Location,Ranking,3,Melbourne,212722,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
-Summary,Percentile,,Median,114407,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
-Summary,Percentile,,25th,89,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
-Summary,Percentile,,75th,138000,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
-Summary,Percentile,,90th,160000,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
-Top Company,Ranking,1,Amazon,194558,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
-Top Company,Ranking,2,NAB,127933,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
-Top Company,Ranking,3,Kearney,123575,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
-Top Location,Ranking,1,Brisbane,146855,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
-Top Location,Ranking,2,Melbourne,128744,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
-Top Location,Ranking,3,Sydney,114538,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
-Summary,Percentile,,Median,79928,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
-Summary,Percentile,,25th,74,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
-Summary,Percentile,,75th,85,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
-Summary,Percentile,,90th,108000,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
-Top Company,Ranking,1,Amazon,194558,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
-Top Company,Ranking,2,NAB,127933,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
-Top Company,Ranking,3,Kearney,123575,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
-Top Location,Ranking,1,Brisbane,146855,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
-Top Location,Ranking,2,Melbourne,128744,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
-Top Location,Ranking,3,Sydney,114538,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
-Summary,Percentile,,Median,147608,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
-Summary,Percentile,,25th,130000,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
-Summary,Percentile,,75th,160000,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
-Summary,Percentile,,90th,215000,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
-Top Company,Ranking,1,Amazon,194558,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
-Top Company,Ranking,2,NAB,127933,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
-Top Company,Ranking,3,Kearney,123575,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
-Top Location,Ranking,1,Brisbane,146855,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
-Top Location,Ranking,2,Melbourne,128744,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
-Top Location,Ranking,3,Sydney,114538,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
-Summary,Percentile,,Median,219444,Sales Engineer,All,Australia,https://www.levels.fyi/en-gb/t/sales-engineer/locations/australia
-Summary,Percentile,,25th,150000,Sales Engineer,All,Australia,https://www.levels.fyi/en-gb/t/sales-engineer/locations/australia
-Summary,Percentile,,75th,263000,Sales Engineer,All,Australia,https://www.levels.fyi/en-gb/t/sales-engineer/locations/australia
-Summary,Percentile,,90th,390000,Sales Engineer,All,Australia,https://www.levels.fyi/en-gb/t/sales-engineer/locations/australia
-Summary,Percentile,,Median,127939,Sales Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/sales-engineer/levels/entry-level/locations/australia
-Summary,Percentile,,Median,254775,Sales Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/sales-engineer/levels/senior/locations/australia
-Summary,Percentile,,25th,174000,Sales Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/sales-engineer/levels/senior/locations/australia
-Summary,Percentile,,75th,390000,Sales Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/sales-engineer/levels/senior/locations/australia
-Summary,Percentile,,90th,432000,Sales Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/sales-engineer/levels/senior/locations/australia
-Summary,Percentile,,Median,110417,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
-Summary,Percentile,,25th,90,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
-Summary,Percentile,,75th,145000,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
-Summary,Percentile,,90th,184000,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
-Top Company,Ranking,1,Deloitte,114523,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
-Top Company,Ranking,2,Simon-Kucher,111970,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
-Top Company,Ranking,3,Accenture,111281,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
-Top Location,Ranking,1,Sydney,118208,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
-Top Location,Ranking,2,Canberra,116975,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
-Top Location,Ranking,3,Melbourne,97333,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
-Summary,Percentile,,Median,88925,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
-Summary,Percentile,,25th,71,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
-Summary,Percentile,,75th,97,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
-Summary,Percentile,,90th,120000,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
-Top Company,Ranking,1,Deloitte,114523,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
-Top Company,Ranking,2,Simon-Kucher,111970,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
-Top Company,Ranking,3,Accenture,111281,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
-Top Location,Ranking,1,Sydney,118208,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
-Top Location,Ranking,2,Canberra,116975,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
-Top Location,Ranking,3,Melbourne,97333,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
-Summary,Percentile,,Median,169193,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
-Summary,Percentile,,25th,142000,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
-Summary,Percentile,,75th,225000,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
-Summary,Percentile,,90th,279000,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
-Top Company,Ranking,1,Deloitte,114523,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
-Top Company,Ranking,2,Simon-Kucher,111970,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
-Top Company,Ranking,3,Accenture,111281,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
-Top Location,Ranking,1,Sydney,118208,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
-Top Location,Ranking,2,Canberra,116975,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
-Top Location,Ranking,3,Melbourne,97333,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
-Summary,Percentile,,Median,268430,Partner Manager,All,Australia,https://www.levels.fyi/en-gb/t/partner-manager/locations/australia
-Summary,Percentile,,25th,176000,Partner Manager,All,Australia,https://www.levels.fyi/en-gb/t/partner-manager/locations/australia
-Summary,Percentile,,75th,299000,Partner Manager,All,Australia,https://www.levels.fyi/en-gb/t/partner-manager/locations/australia
-Summary,Percentile,,90th,318000,Partner Manager,All,Australia,https://www.levels.fyi/en-gb/t/partner-manager/locations/australia
-Summary,Percentile,,Median,282021,Partner Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/partner-manager/levels/senior/locations/australia
-Summary,Percentile,,Median,152343,Human Resources,All,Australia,https://www.levels.fyi/en-gb/t/human-resources/locations/australia
-Summary,Percentile,,25th,139000,Human Resources,All,Australia,https://www.levels.fyi/en-gb/t/human-resources/locations/australia
-Summary,Percentile,,75th,161000,Human Resources,All,Australia,https://www.levels.fyi/en-gb/t/human-resources/locations/australia
-Summary,Percentile,,90th,180000,Human Resources,All,Australia,https://www.levels.fyi/en-gb/t/human-resources/locations/australia
-Summary,Percentile,,Median,67523,Human Resources,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/human-resources/levels/entry-level/locations/australia
-Summary,Percentile,,Median,156820,Human Resources,Senior,Australia,https://www.levels.fyi/en-gb/t/human-resources/levels/senior/locations/australia
-Summary,Percentile,,25th,147000,Human Resources,Senior,Australia,https://www.levels.fyi/en-gb/t/human-resources/levels/senior/locations/australia
-Summary,Percentile,,75th,180000,Human Resources,Senior,Australia,https://www.levels.fyi/en-gb/t/human-resources/levels/senior/locations/australia
-Summary,Percentile,,90th,229000,Human Resources,Senior,Australia,https://www.levels.fyi/en-gb/t/human-resources/levels/senior/locations/australia
-Summary,Percentile,,Median,147042,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
-Summary,Percentile,,25th,107000,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
-Summary,Percentile,,75th,178000,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
-Summary,Percentile,,90th,249000,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
-Top Company,Ranking,1,Atlassian,269338,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
-Top Company,Ranking,2,Westpac,181433,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
-Top Company,Ranking,3,Canva,166374,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
-Top Location,Ranking,1,Melbourne,172940,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
-Top Location,Ranking,2,Sydney,160884,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
-Top Location,Ranking,3,Perth,124841,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
-Summary,Percentile,,Median,90536,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
-Summary,Percentile,,25th,77,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
-Summary,Percentile,,75th,96,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
-Summary,Percentile,,90th,122000,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
-Top Company,Ranking,1,Atlassian,269338,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
-Top Company,Ranking,2,Westpac,181433,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
-Top Company,Ranking,3,Canva,166374,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
-Top Location,Ranking,1,Melbourne,172940,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
-Top Location,Ranking,2,Sydney,160884,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
-Top Location,Ranking,3,Perth,124841,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
-Summary,Percentile,,Median,192107,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
-Summary,Percentile,,25th,166000,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
-Summary,Percentile,,75th,261000,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
-Summary,Percentile,,90th,299000,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
-Top Company,Ranking,1,Atlassian,269338,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
-Top Company,Ranking,2,Westpac,181433,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
-Top Company,Ranking,3,Canva,166374,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
-Top Location,Ranking,1,Melbourne,172940,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
-Top Location,Ranking,2,Sydney,160884,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
-Top Location,Ranking,3,Perth,124841,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
-Summary,Percentile,,Median,99097,Customer Service Ops,All,Australia,https://www.levels.fyi/en-gb/t/customer-service-ops/locations/australia
-Summary,Percentile,,Median,188067,Investment Banker,All,Australia,https://www.levels.fyi/en-gb/t/investment-banker/locations/australia
-Summary,Percentile,,25th,109000,Investment Banker,All,Australia,https://www.levels.fyi/en-gb/t/investment-banker/locations/australia
-Summary,Percentile,,75th,213000,Investment Banker,All,Australia,https://www.levels.fyi/en-gb/t/investment-banker/locations/australia
-Summary,Percentile,,90th,234000,Investment Banker,All,Australia,https://www.levels.fyi/en-gb/t/investment-banker/locations/australia
-Summary,Percentile,,Median,188067,Investment Banker,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/investment-banker/levels/entry-level/locations/australia
-Summary,Percentile,,Median,104512,Accountant,All,Australia,https://www.levels.fyi/en-gb/t/accountant/locations/australia
-Summary,Percentile,,25th,79,Accountant,All,Australia,https://www.levels.fyi/en-gb/t/accountant/locations/australia
-Summary,Percentile,,75th,120000,Accountant,All,Australia,https://www.levels.fyi/en-gb/t/accountant/locations/australia
-Summary,Percentile,,90th,155000,Accountant,All,Australia,https://www.levels.fyi/en-gb/t/accountant/locations/australia
-Top Company,Ranking,1,Melbourne,106499,Accountant,All,Australia,https://www.levels.fyi/en-gb/t/accountant/locations/australia
-Top Company,Ranking,2,Sydney,104512,Accountant,All,Australia,https://www.levels.fyi/en-gb/t/accountant/locations/australia
-Top Company,Ranking,3,Adelaide,64378,Accountant,All,Australia,https://www.levels.fyi/en-gb/t/accountant/locations/australia
-Summary,Percentile,,Median,64425,Accountant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/entry-level/locations/australia
-Summary,Percentile,,25th,64,Accountant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/entry-level/locations/australia
-Summary,Percentile,,75th,69,Accountant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/entry-level/locations/australia
-Summary,Percentile,,90th,71,Accountant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/entry-level/locations/australia
-Top Company,Ranking,1,Melbourne,106499,Accountant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/entry-level/locations/australia
-Top Company,Ranking,2,Sydney,104512,Accountant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/entry-level/locations/australia
-Top Company,Ranking,3,Adelaide,64378,Accountant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/entry-level/locations/australia
-Summary,Percentile,,Median,117639,Accountant,Senior,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/senior/locations/australia
-Summary,Percentile,,25th,107000,Accountant,Senior,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/senior/locations/australia
-Summary,Percentile,,75th,155000,Accountant,Senior,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/senior/locations/australia
-Summary,Percentile,,90th,164000,Accountant,Senior,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/senior/locations/australia
-Top Company,Ranking,1,Melbourne,106499,Accountant,Senior,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/senior/locations/australia
-Top Company,Ranking,2,Sydney,104512,Accountant,Senior,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/senior/locations/australia
-Top Company,Ranking,3,Adelaide,64378,Accountant,Senior,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/senior/locations/australia
-Summary,Percentile,,Median,104911,Financial Analyst,All,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/locations/australia
-Summary,Percentile,,25th,76,Financial Analyst,All,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/locations/australia
-Summary,Percentile,,75th,127000,Financial Analyst,All,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/locations/australia
-Summary,Percentile,,90th,205000,Financial Analyst,All,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/locations/australia
-Top Company,Ranking,1,Melbourne,115848,Financial Analyst,All,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/locations/australia
-Top Company,Ranking,2,Brisbane,109038,Financial Analyst,All,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/locations/australia
-Top Company,Ranking,3,Sydney,104911,Financial Analyst,All,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/locations/australia
-Summary,Percentile,,Median,97540,Financial Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/entry-level/locations/australia
-Summary,Percentile,,25th,64,Financial Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/entry-level/locations/australia
-Summary,Percentile,,75th,116000,Financial Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/entry-level/locations/australia
-Summary,Percentile,,90th,122000,Financial Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/entry-level/locations/australia
-Top Company,Ranking,1,Melbourne,115848,Financial Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/entry-level/locations/australia
-Top Company,Ranking,2,Brisbane,109038,Financial Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/entry-level/locations/australia
-Top Company,Ranking,3,Sydney,104911,Financial Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/entry-level/locations/australia
-Summary,Percentile,,Median,169448,Financial Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/senior/locations/australia
-Summary,Percentile,,25th,132000,Financial Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/senior/locations/australia
-Summary,Percentile,,75th,205000,Financial Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/senior/locations/australia
-Summary,Percentile,,90th,230000,Financial Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/senior/locations/australia
-Top Company,Ranking,1,Melbourne,115848,Financial Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/senior/locations/australia
-Top Company,Ranking,2,Brisbane,109038,Financial Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/senior/locations/australia
-Top Company,Ranking,3,Sydney,104911,Financial Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/senior/locations/australia
-Summary,Percentile,,Median,174984,Data Science Manager,All,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/locations/australia
+Summary,Percentile,,75th,153000,Graphic Designer,All,Australia,https://www.levels.fyi/en-gb/t/graphic-designer/locations/australia
+Summary,Percentile,,90th,164000,Graphic Designer,All,Australia,https://www.levels.fyi/en-gb/t/graphic-designer/locations/australia
+Summary,Percentile,,Median,154093,Graphic Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/graphic-designer/levels/senior/locations/australia
+Summary,Percentile,,Median,144363,Legal,All,Australia,https://www.levels.fyi/en-gb/t/legal/locations/australia
+Summary,Percentile,,25th,97,Legal,All,Australia,https://www.levels.fyi/en-gb/t/legal/locations/australia
+Summary,Percentile,,75th,180000,Legal,All,Australia,https://www.levels.fyi/en-gb/t/legal/locations/australia
+Summary,Percentile,,90th,208000,Legal,All,Australia,https://www.levels.fyi/en-gb/t/legal/locations/australia
+Summary,Percentile,,Median,282927,Partner Manager,All,Australia,https://www.levels.fyi/en-gb/t/partner-manager/locations/australia
+Summary,Percentile,,25th,220000,Partner Manager,All,Australia,https://www.levels.fyi/en-gb/t/partner-manager/locations/australia
+Summary,Percentile,,75th,300000,Partner Manager,All,Australia,https://www.levels.fyi/en-gb/t/partner-manager/locations/australia
+Summary,Percentile,,90th,390000,Partner Manager,All,Australia,https://www.levels.fyi/en-gb/t/partner-manager/locations/australia
+Summary,Percentile,,Median,297009,Partner Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/partner-manager/levels/senior/locations/australia
+Summary,Percentile,,Median,109735,Information Technologist,All,Australia,https://www.levels.fyi/en-gb/t/information-technologist/locations/australia
+Summary,Percentile,,25th,86,Information Technologist,All,Australia,https://www.levels.fyi/en-gb/t/information-technologist/locations/australia
+Summary,Percentile,,75th,150000,Information Technologist,All,Australia,https://www.levels.fyi/en-gb/t/information-technologist/locations/australia
+Summary,Percentile,,90th,192000,Information Technologist,All,Australia,https://www.levels.fyi/en-gb/t/information-technologist/locations/australia
+Top Company,Ranking,1,Perth,131468,Information Technologist,All,Australia,https://www.levels.fyi/en-gb/t/information-technologist/locations/australia
+Top Company,Ranking,2,Sydney,116560,Information Technologist,All,Australia,https://www.levels.fyi/en-gb/t/information-technologist/locations/australia
+Top Company,Ranking,3,Melbourne,108359,Information Technologist,All,Australia,https://www.levels.fyi/en-gb/t/information-technologist/locations/australia
+Summary,Percentile,,Median,74514,Information Technologist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/entry-level/locations/australia
+Summary,Percentile,,25th,71,Information Technologist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/entry-level/locations/australia
+Summary,Percentile,,75th,85,Information Technologist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/entry-level/locations/australia
+Summary,Percentile,,90th,86,Information Technologist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/entry-level/locations/australia
+Top Company,Ranking,1,Perth,131468,Information Technologist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/entry-level/locations/australia
+Top Company,Ranking,2,Sydney,116560,Information Technologist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/entry-level/locations/australia
+Top Company,Ranking,3,Melbourne,108359,Information Technologist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/entry-level/locations/australia
+Summary,Percentile,,Median,150238,Information Technologist,Senior,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/senior/locations/australia
+Summary,Percentile,,25th,117000,Information Technologist,Senior,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/senior/locations/australia
+Summary,Percentile,,75th,173000,Information Technologist,Senior,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/senior/locations/australia
+Summary,Percentile,,90th,207000,Information Technologist,Senior,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/senior/locations/australia
+Top Company,Ranking,1,Perth,131468,Information Technologist,Senior,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/senior/locations/australia
+Top Company,Ranking,2,Sydney,116560,Information Technologist,Senior,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/senior/locations/australia
+Top Company,Ranking,3,Melbourne,108359,Information Technologist,Senior,Australia,https://www.levels.fyi/en-gb/t/information-technologist/levels/senior/locations/australia
+Summary,Percentile,,Median,175546,Data Science Manager,All,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/locations/australia
 Summary,Percentile,,25th,163000,Data Science Manager,All,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/locations/australia
-Summary,Percentile,,75th,251000,Data Science Manager,All,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/locations/australia
-Summary,Percentile,,90th,292000,Data Science Manager,All,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/locations/australia
-Summary,Percentile,,Median,182977,Data Science Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/levels/senior/locations/australia
+Summary,Percentile,,75th,223000,Data Science Manager,All,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/locations/australia
+Summary,Percentile,,90th,288000,Data Science Manager,All,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/locations/australia
+Top Company,Ranking,1,Brisbane,287596,Data Science Manager,All,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/locations/australia
+Top Company,Ranking,2,Sydney,175546,Data Science Manager,All,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/locations/australia
+Top Company,Ranking,3,Melbourne,168386,Data Science Manager,All,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/locations/australia
+Summary,Percentile,,Median,183565,Data Science Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/levels/senior/locations/australia
 Summary,Percentile,,25th,163000,Data Science Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/levels/senior/locations/australia
 Summary,Percentile,,75th,252000,Data Science Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/levels/senior/locations/australia
-Summary,Percentile,,90th,292000,Data Science Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/levels/senior/locations/australia
-Summary,Percentile,,Median,87553,Civil Engineer,All,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/locations/australia
-Summary,Percentile,,25th,74,Civil Engineer,All,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/locations/australia
-Summary,Percentile,,75th,107000,Civil Engineer,All,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/locations/australia
-Summary,Percentile,,90th,151000,Civil Engineer,All,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/locations/australia
-Top Company,Ranking,1,Melbourne,99319,Civil Engineer,All,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/locations/australia
-Top Company,Ranking,2,Sydney,90858,Civil Engineer,All,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/locations/australia
-Top Company,Ranking,3,Brisbane,82991,Civil Engineer,All,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/locations/australia
-Summary,Percentile,,Median,70984,Civil Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/entry-level/locations/australia
+Summary,Percentile,,90th,288000,Data Science Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/levels/senior/locations/australia
+Top Company,Ranking,1,Brisbane,287596,Data Science Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/levels/senior/locations/australia
+Top Company,Ranking,2,Sydney,175546,Data Science Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/levels/senior/locations/australia
+Top Company,Ranking,3,Melbourne,168386,Data Science Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/data-science-manager/levels/senior/locations/australia
+Summary,Percentile,,Median,179500,Investment Banker,All,Australia,https://www.levels.fyi/en-gb/t/investment-banker/locations/australia
+Summary,Percentile,,25th,109000,Investment Banker,All,Australia,https://www.levels.fyi/en-gb/t/investment-banker/locations/australia
+Summary,Percentile,,75th,205000,Investment Banker,All,Australia,https://www.levels.fyi/en-gb/t/investment-banker/locations/australia
+Summary,Percentile,,90th,214000,Investment Banker,All,Australia,https://www.levels.fyi/en-gb/t/investment-banker/locations/australia
+Summary,Percentile,,Median,188671,Investment Banker,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/investment-banker/levels/entry-level/locations/australia
+Summary,Percentile,,Median,202729,Technical Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/locations/australia
+Summary,Percentile,,25th,171000,Technical Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/locations/australia
+Summary,Percentile,,75th,274000,Technical Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/locations/australia
+Summary,Percentile,,90th,291000,Technical Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/locations/australia
+Top Company,Ranking,1,Atlassian,323452,Technical Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/locations/australia
+Top Company,Ranking,2,Microsoft,264204,Technical Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/locations/australia
+Top Company,Ranking,3,Amazon,219157,Technical Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/locations/australia
+Summary,Percentile,,Median,211798,Technical Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/levels/senior/locations/australia
+Summary,Percentile,,25th,178000,Technical Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/levels/senior/locations/australia
+Summary,Percentile,,75th,276000,Technical Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/levels/senior/locations/australia
+Summary,Percentile,,90th,323000,Technical Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/levels/senior/locations/australia
+Top Company,Ranking,1,Atlassian,323452,Technical Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/levels/senior/locations/australia
+Top Company,Ranking,2,Microsoft,264204,Technical Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/levels/senior/locations/australia
+Top Company,Ranking,3,Amazon,219157,Technical Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/technical-program-manager/levels/senior/locations/australia
+Summary,Percentile,,Median,135631,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
+Summary,Percentile,,25th,99,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
+Summary,Percentile,,75th,167000,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
+Summary,Percentile,,90th,201000,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
+Top Company,Ranking,1,Atlassian,270204,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
+Top Company,Ranking,2,Canva,166908,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
+Top Company,Ranking,3,Macquarie Group,161665,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
+Top Location,Ranking,1,Sydney,139142,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
+Top Location,Ranking,2,Melbourne,135631,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
+Top Location,Ranking,3,Perth,125242,Data Scientist,All,Australia,https://www.levels.fyi/en-gb/t/data-scientist/locations/australia
+Summary,Percentile,,Median,90318,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
+Summary,Percentile,,25th,80,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
+Summary,Percentile,,75th,97000,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
+Summary,Percentile,,90th,122000,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
+Top Company,Ranking,1,Atlassian,270204,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
+Top Company,Ranking,2,Canva,166908,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
+Top Company,Ranking,3,Macquarie Group,161665,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
+Top Location,Ranking,1,Sydney,139142,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
+Top Location,Ranking,2,Melbourne,135631,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
+Top Location,Ranking,3,Perth,125242,Data Scientist,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/entry-level/locations/australia
+Summary,Percentile,,Median,175609,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
+Summary,Percentile,,25th,149000,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
+Summary,Percentile,,75th,208000,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
+Summary,Percentile,,90th,298000,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
+Top Company,Ranking,1,Atlassian,270204,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
+Top Company,Ranking,2,Canva,166908,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
+Top Company,Ranking,3,Macquarie Group,161665,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
+Top Location,Ranking,1,Sydney,139142,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
+Top Location,Ranking,2,Melbourne,135631,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
+Top Location,Ranking,3,Perth,125242,Data Scientist,Senior,Australia,https://www.levels.fyi/en-gb/t/data-scientist/levels/senior/locations/australia
+Summary,Percentile,,Median,112075,Chemical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/chemical-engineer/locations/australia
+Summary,Percentile,,Median,115881,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
+Summary,Percentile,,25th,91,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
+Summary,Percentile,,75th,157000,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
+Summary,Percentile,,90th,185000,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
+Top Company,Ranking,1,Deloitte,118117,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
+Top Company,Ranking,2,Accenture,115881,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
+Top Company,Ranking,3,Simon-Kucher,112330,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
+Top Location,Ranking,1,Brisbane,132786,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
+Top Location,Ranking,2,Sydney,126714,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
+Top Location,Ranking,3,Canberra,117351,Management Consultant,All,Australia,https://www.levels.fyi/en-gb/t/management-consultant/locations/australia
+Summary,Percentile,,Median,78069,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
+Summary,Percentile,,25th,70,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
+Summary,Percentile,,75th,95,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
+Summary,Percentile,,90th,102000,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
+Top Company,Ranking,1,Deloitte,118117,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
+Top Company,Ranking,2,Accenture,115881,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
+Top Company,Ranking,3,Simon-Kucher,112330,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
+Top Location,Ranking,1,Brisbane,132786,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
+Top Location,Ranking,2,Sydney,126714,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
+Top Location,Ranking,3,Canberra,117351,Management Consultant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/entry-level/locations/australia
+Summary,Percentile,,Median,158293,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
+Summary,Percentile,,25th,142000,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
+Summary,Percentile,,75th,195000,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
+Summary,Percentile,,90th,238000,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
+Top Company,Ranking,1,Deloitte,118117,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
+Top Company,Ranking,2,Accenture,115881,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
+Top Company,Ranking,3,Simon-Kucher,112330,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
+Top Location,Ranking,1,Brisbane,132786,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
+Top Location,Ranking,2,Sydney,126714,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
+Top Location,Ranking,3,Canberra,117351,Management Consultant,Senior,Australia,https://www.levels.fyi/en-gb/t/management-consultant/levels/senior/locations/australia
+Summary,Percentile,,Median,139669,Human Resources,All,Australia,https://www.levels.fyi/en-gb/t/human-resources/locations/australia
+Summary,Percentile,,25th,81,Human Resources,All,Australia,https://www.levels.fyi/en-gb/t/human-resources/locations/australia
+Summary,Percentile,,75th,161000,Human Resources,All,Australia,https://www.levels.fyi/en-gb/t/human-resources/locations/australia
+Summary,Percentile,,90th,169000,Human Resources,All,Australia,https://www.levels.fyi/en-gb/t/human-resources/locations/australia
+Summary,Percentile,,Median,67740,Human Resources,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/human-resources/levels/entry-level/locations/australia
+Summary,Percentile,,Median,157323,Human Resources,Senior,Australia,https://www.levels.fyi/en-gb/t/human-resources/levels/senior/locations/australia
+Summary,Percentile,,25th,140000,Human Resources,Senior,Australia,https://www.levels.fyi/en-gb/t/human-resources/levels/senior/locations/australia
+Summary,Percentile,,75th,180000,Human Resources,Senior,Australia,https://www.levels.fyi/en-gb/t/human-resources/levels/senior/locations/australia
+Summary,Percentile,,90th,229000,Human Resources,Senior,Australia,https://www.levels.fyi/en-gb/t/human-resources/levels/senior/locations/australia
+Summary,Percentile,,Median,148878,Actuary,All,Australia,https://www.levels.fyi/en-gb/t/actuary/locations/australia
+Summary,Percentile,,Median,221943,Tam,All,Australia,https://www.levels.fyi/en-gb/t/tam/locations/australia
+Summary,Percentile,,Median,249760,Tam,Senior,Australia,https://www.levels.fyi/en-gb/t/tam/levels/senior/locations/australia
+Summary,Percentile,,Median,115446,Total Rewards,All,Australia,https://www.levels.fyi/en-gb/t/total-rewards/locations/australia
+Summary,Percentile,,Median,137586,Marketing Operations,All,Australia,https://www.levels.fyi/en-gb/t/marketing-operations/locations/australia
+Summary,Percentile,,25th,106000,Marketing Operations,All,Australia,https://www.levels.fyi/en-gb/t/marketing-operations/locations/australia
+Summary,Percentile,,75th,148000,Marketing Operations,All,Australia,https://www.levels.fyi/en-gb/t/marketing-operations/locations/australia
+Summary,Percentile,,90th,169000,Marketing Operations,All,Australia,https://www.levels.fyi/en-gb/t/marketing-operations/locations/australia
+Summary,Percentile,,Median,140819,Marketing Operations,Senior,Australia,https://www.levels.fyi/en-gb/t/marketing-operations/levels/senior/locations/australia
+Summary,Percentile,,Median,231734,Product Design Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-design-manager/locations/australia
+Summary,Percentile,,25th,190000,Product Design Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-design-manager/locations/australia
+Summary,Percentile,,75th,280000,Product Design Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-design-manager/locations/australia
+Summary,Percentile,,90th,308000,Product Design Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-design-manager/locations/australia
+Summary,Percentile,,Median,231734,Product Design Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-design-manager/levels/senior/locations/australia
+Summary,Percentile,,25th,190000,Product Design Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-design-manager/levels/senior/locations/australia
+Summary,Percentile,,75th,280000,Product Design Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-design-manager/levels/senior/locations/australia
+Summary,Percentile,,90th,308000,Product Design Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-design-manager/levels/senior/locations/australia
+Summary,Percentile,,Median,116849,Technical Writer,All,Australia,https://www.levels.fyi/en-gb/t/technical-writer/locations/australia
+Summary,Percentile,,Median,147860,Controls Engineer,All,Australia,https://www.levels.fyi/en-gb/t/controls-engineer/locations/australia
+Summary,Percentile,,Median,152855,Recruiter,All,Australia,https://www.levels.fyi/en-gb/t/recruiter/locations/australia
+Summary,Percentile,,25th,150000,Recruiter,All,Australia,https://www.levels.fyi/en-gb/t/recruiter/locations/australia
+Summary,Percentile,,75th,212000,Recruiter,All,Australia,https://www.levels.fyi/en-gb/t/recruiter/locations/australia
+Summary,Percentile,,90th,227000,Recruiter,All,Australia,https://www.levels.fyi/en-gb/t/recruiter/locations/australia
+Summary,Percentile,,Median,152855,Recruiter,Senior,Australia,https://www.levels.fyi/en-gb/t/recruiter/levels/senior/locations/australia
+Summary,Percentile,,25th,150000,Recruiter,Senior,Australia,https://www.levels.fyi/en-gb/t/recruiter/levels/senior/locations/australia
+Summary,Percentile,,75th,212000,Recruiter,Senior,Australia,https://www.levels.fyi/en-gb/t/recruiter/levels/senior/locations/australia
+Summary,Percentile,,90th,227000,Recruiter,Senior,Australia,https://www.levels.fyi/en-gb/t/recruiter/levels/senior/locations/australia
+Summary,Percentile,,Median,114202,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
+Summary,Percentile,,25th,85,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
+Summary,Percentile,,75th,148000,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
+Summary,Percentile,,90th,157000,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
+Top Company,Ranking,1,McKinsey,114775,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
+Top Company,Ranking,2,NAB,109270,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
+Top Company,Ranking,3,Westpac,108229,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
+Top Location,Ranking,1,Brisbane,147327,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
+Top Location,Ranking,2,Melbourne,132415,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
+Top Location,Ranking,3,Sydney,108229,Business Analyst,All,Australia,https://www.levels.fyi/en-gb/t/business-analyst/locations/australia
+Summary,Percentile,,Median,80310,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
+Summary,Percentile,,25th,74,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
+Summary,Percentile,,75th,94,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
+Summary,Percentile,,90th,109000,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
+Top Company,Ranking,1,McKinsey,114775,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
+Top Company,Ranking,2,NAB,109270,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
+Top Company,Ranking,3,Westpac,108229,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
+Top Location,Ranking,1,Brisbane,147327,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
+Top Location,Ranking,2,Melbourne,132415,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
+Top Location,Ranking,3,Sydney,108229,Business Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/entry-level/locations/australia
+Summary,Percentile,,Median,151032,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
+Summary,Percentile,,25th,132000,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
+Summary,Percentile,,75th,156000,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
+Summary,Percentile,,90th,161000,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
+Top Company,Ranking,1,McKinsey,114775,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
+Top Company,Ranking,2,NAB,109270,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
+Top Company,Ranking,3,Westpac,108229,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
+Top Location,Ranking,1,Brisbane,147327,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
+Top Location,Ranking,2,Melbourne,132415,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
+Top Location,Ranking,3,Sydney,108229,Business Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/business-analyst/levels/senior/locations/australia
+Summary,Percentile,,Median,200776,Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/program-manager/locations/australia
+Summary,Percentile,,25th,170000,Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/program-manager/locations/australia
+Summary,Percentile,,75th,236000,Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/program-manager/locations/australia
+Summary,Percentile,,90th,272000,Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/program-manager/locations/australia
+Top Company,Ranking,1,Sydney,220182,Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/program-manager/locations/australia
+Top Company,Ranking,2,Canberra,193763,Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/program-manager/locations/australia
+Top Company,Ranking,3,Melbourne,176481,Program Manager,All,Australia,https://www.levels.fyi/en-gb/t/program-manager/locations/australia
+Summary,Percentile,,Median,202178,Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/program-manager/levels/senior/locations/australia
+Summary,Percentile,,25th,174000,Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/program-manager/levels/senior/locations/australia
+Summary,Percentile,,75th,241000,Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/program-manager/levels/senior/locations/australia
+Summary,Percentile,,90th,289000,Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/program-manager/levels/senior/locations/australia
+Top Company,Ranking,1,Sydney,220182,Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/program-manager/levels/senior/locations/australia
+Top Company,Ranking,2,Canberra,193763,Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/program-manager/levels/senior/locations/australia
+Top Company,Ranking,3,Melbourne,176481,Program Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/program-manager/levels/senior/locations/australia
+Summary,Percentile,,Median,93447,Electrical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/electrical-engineer/locations/australia
+Summary,Percentile,,25th,72,Electrical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/electrical-engineer/locations/australia
+Summary,Percentile,,75th,113000,Electrical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/electrical-engineer/locations/australia
+Summary,Percentile,,90th,126000,Electrical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/electrical-engineer/locations/australia
+Summary,Percentile,,Median,122652,Financial Analyst,All,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/locations/australia
+Summary,Percentile,,25th,76,Financial Analyst,All,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/locations/australia
+Summary,Percentile,,75th,142000,Financial Analyst,All,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/locations/australia
+Summary,Percentile,,90th,205000,Financial Analyst,All,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/locations/australia
+Top Company,Ranking,1,Sydney,122652,Financial Analyst,All,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/locations/australia
+Top Company,Ranking,2,Melbourne,119041,Financial Analyst,All,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/locations/australia
+Top Company,Ranking,3,Brisbane,109389,Financial Analyst,All,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/locations/australia
+Summary,Percentile,,Median,76659,Financial Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/entry-level/locations/australia
+Summary,Percentile,,25th,63,Financial Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/entry-level/locations/australia
+Summary,Percentile,,75th,116000,Financial Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/entry-level/locations/australia
+Summary,Percentile,,90th,122000,Financial Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/entry-level/locations/australia
+Top Company,Ranking,1,Sydney,122652,Financial Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/entry-level/locations/australia
+Top Company,Ranking,2,Melbourne,119041,Financial Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/entry-level/locations/australia
+Top Company,Ranking,3,Brisbane,109389,Financial Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/entry-level/locations/australia
+Summary,Percentile,,Median,169993,Financial Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/senior/locations/australia
+Summary,Percentile,,25th,152000,Financial Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/senior/locations/australia
+Summary,Percentile,,75th,182000,Financial Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/senior/locations/australia
+Summary,Percentile,,90th,231000,Financial Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/senior/locations/australia
+Top Company,Ranking,1,Sydney,122652,Financial Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/senior/locations/australia
+Top Company,Ranking,2,Melbourne,119041,Financial Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/senior/locations/australia
+Top Company,Ranking,3,Brisbane,109389,Financial Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/financial-analyst/levels/senior/locations/australia
+Summary,Percentile,,Median,149996,Marketing,All,Australia,https://www.levels.fyi/en-gb/t/marketing/locations/australia
+Summary,Percentile,,25th,107000,Marketing,All,Australia,https://www.levels.fyi/en-gb/t/marketing/locations/australia
+Summary,Percentile,,75th,163000,Marketing,All,Australia,https://www.levels.fyi/en-gb/t/marketing/locations/australia
+Summary,Percentile,,90th,225000,Marketing,All,Australia,https://www.levels.fyi/en-gb/t/marketing/locations/australia
+Top Company,Ranking,1,Canva,233756,Marketing,All,Australia,https://www.levels.fyi/en-gb/t/marketing/locations/australia
+Top Company,Ranking,2,Amazon,207867,Marketing,All,Australia,https://www.levels.fyi/en-gb/t/marketing/locations/australia
+Top Company,Ranking,3,Block,178431,Marketing,All,Australia,https://www.levels.fyi/en-gb/t/marketing/locations/australia
+Summary,Percentile,,Median,118188,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
+Summary,Percentile,,25th,101000,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
+Summary,Percentile,,75th,140000,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
+Summary,Percentile,,90th,160000,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
+Top Company,Ranking,1,ANZ,136409,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
+Top Company,Ranking,2,Westpac,130879,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
+Top Company,Ranking,3,Transurban,128021,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
+Top Location,Ranking,1,Canberra,183907,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
+Top Location,Ranking,2,Sydney,145383,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
+Top Location,Ranking,3,Melbourne,125596,Data Analyst,All,Australia,https://www.levels.fyi/en-gb/t/data-analyst/locations/australia
+Summary,Percentile,,Median,85901,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
+Summary,Percentile,,25th,79,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
+Summary,Percentile,,75th,113000,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
+Summary,Percentile,,90th,114000,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
+Top Company,Ranking,1,ANZ,136409,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
+Top Company,Ranking,2,Westpac,130879,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
+Top Company,Ranking,3,Transurban,128021,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
+Top Location,Ranking,1,Canberra,183907,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
+Top Location,Ranking,2,Sydney,145383,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
+Top Location,Ranking,3,Melbourne,125596,Data Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/entry-level/locations/australia
+Summary,Percentile,,Median,142711,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
+Summary,Percentile,,25th,133000,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
+Summary,Percentile,,75th,165000,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
+Summary,Percentile,,90th,178000,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
+Top Company,Ranking,1,ANZ,136409,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
+Top Company,Ranking,2,Westpac,130879,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
+Top Company,Ranking,3,Transurban,128021,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
+Top Location,Ranking,1,Canberra,183907,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
+Top Location,Ranking,2,Sydney,145383,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
+Top Location,Ranking,3,Melbourne,125596,Data Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/data-analyst/levels/senior/locations/australia
+Summary,Percentile,,Median,199130,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
+Summary,Percentile,,25th,125000,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
+Summary,Percentile,,75th,303000,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
+Summary,Percentile,,90th,437000,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
+Top Company,Ranking,1,Google,324329,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
+Top Company,Ranking,2,Microsoft,318127,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
+Top Company,Ranking,3,Amazon,269702,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
+Top Location,Ranking,1,Brisbane,233415,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
+Top Location,Ranking,2,Sydney,199218,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
+Top Location,Ranking,3,Melbourne,183506,Sales,All,Australia,https://www.levels.fyi/en-gb/t/sales/locations/australia
+Summary,Percentile,,Median,134782,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
+Summary,Percentile,,25th,84,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
+Summary,Percentile,,75th,172000,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
+Summary,Percentile,,90th,238000,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
+Top Company,Ranking,1,Amazon,331921,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
+Top Company,Ranking,2,Block,272787,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
+Top Company,Ranking,3,Atlassian,221102,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
+Top Location,Ranking,1,Brisbane,163939,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
+Top Location,Ranking,2,Melbourne,161345,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
+Top Location,Ranking,3,Sydney,125938,Security Analyst,All,Australia,https://www.levels.fyi/en-gb/t/security-analyst/locations/australia
+Summary,Percentile,,Median,77268,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
+Summary,Percentile,,25th,66,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
+Summary,Percentile,,75th,83,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
+Summary,Percentile,,90th,106000,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
+Top Company,Ranking,1,Amazon,331921,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
+Top Company,Ranking,2,Block,272787,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
+Top Company,Ranking,3,Atlassian,221102,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
+Top Location,Ranking,1,Brisbane,163939,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
+Top Location,Ranking,2,Melbourne,161345,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
+Top Location,Ranking,3,Sydney,125938,Security Analyst,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/entry-level/locations/australia
+Summary,Percentile,,Median,171945,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
+Summary,Percentile,,25th,161000,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
+Summary,Percentile,,75th,224000,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
+Summary,Percentile,,90th,358000,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
+Top Company,Ranking,1,Amazon,331921,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
+Top Company,Ranking,2,Block,272787,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
+Top Company,Ranking,3,Atlassian,221102,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
+Top Location,Ranking,1,Brisbane,163939,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
+Top Location,Ranking,2,Melbourne,161345,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
+Top Location,Ranking,3,Sydney,125938,Security Analyst,Senior,Australia,https://www.levels.fyi/en-gb/t/security-analyst/levels/senior/locations/australia
+Summary,Percentile,,Median,249614,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
+Summary,Percentile,,25th,196000,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
+Summary,Percentile,,75th,299000,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
+Summary,Percentile,,90th,387000,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
+Top Company,Ranking,1,Atlassian,441804,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
+Top Company,Ranking,2,Amazon,337544,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
+Top Company,Ranking,3,Canva,279945,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
+Top Location,Ranking,1,Sydney,273616,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
+Top Location,Ranking,2,Brisbane,198048,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
+Top Location,Ranking,3,Melbourne,189079,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
+Summary,Percentile,,Median,137617,Customer Success,All,Australia,https://www.levels.fyi/en-gb/t/customer-success/locations/australia
+Summary,Percentile,,25th,128000,Customer Success,All,Australia,https://www.levels.fyi/en-gb/t/customer-success/locations/australia
+Summary,Percentile,,75th,184000,Customer Success,All,Australia,https://www.levels.fyi/en-gb/t/customer-success/locations/australia
+Summary,Percentile,,90th,222000,Customer Success,All,Australia,https://www.levels.fyi/en-gb/t/customer-success/locations/australia
+Summary,Percentile,,Median,183734,Customer Success,Senior,Australia,https://www.levels.fyi/en-gb/t/customer-success/levels/senior/locations/australia
+Summary,Percentile,,25th,138000,Customer Success,Senior,Australia,https://www.levels.fyi/en-gb/t/customer-success/levels/senior/locations/australia
+Summary,Percentile,,75th,293000,Customer Success,Senior,Australia,https://www.levels.fyi/en-gb/t/customer-success/levels/senior/locations/australia
+Summary,Percentile,,90th,304000,Customer Success,Senior,Australia,https://www.levels.fyi/en-gb/t/customer-success/levels/senior/locations/australia
+Summary,Percentile,,Median,140152,Project Manager,All,Australia,https://www.levels.fyi/en-gb/t/project-manager/locations/australia
+Summary,Percentile,,25th,117000,Project Manager,All,Australia,https://www.levels.fyi/en-gb/t/project-manager/locations/australia
+Summary,Percentile,,75th,168000,Project Manager,All,Australia,https://www.levels.fyi/en-gb/t/project-manager/locations/australia
+Summary,Percentile,,90th,193000,Project Manager,All,Australia,https://www.levels.fyi/en-gb/t/project-manager/locations/australia
+Summary,Percentile,,Median,84307,Project Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/project-manager/levels/entry-level/locations/australia
+Summary,Percentile,,Median,151322,Project Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/project-manager/levels/senior/locations/australia
+Summary,Percentile,,25th,137000,Project Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/project-manager/levels/senior/locations/australia
+Summary,Percentile,,75th,177000,Project Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/project-manager/levels/senior/locations/australia
+Summary,Percentile,,90th,193000,Project Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/project-manager/levels/senior/locations/australia
+Summary,Percentile,,Median,152916,People Ops,All,Australia,https://www.levels.fyi/en-gb/t/people-ops/locations/australia
+Summary,Percentile,,25th,99,People Ops,All,Australia,https://www.levels.fyi/en-gb/t/people-ops/locations/australia
+Summary,Percentile,,75th,176000,People Ops,All,Australia,https://www.levels.fyi/en-gb/t/people-ops/locations/australia
+Summary,Percentile,,90th,277000,People Ops,All,Australia,https://www.levels.fyi/en-gb/t/people-ops/locations/australia
+Summary,Percentile,,Median,164977,People Ops,Senior,Australia,https://www.levels.fyi/en-gb/t/people-ops/levels/senior/locations/australia
+Summary,Percentile,,Median,105599,Biomedical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/biomedical-engineer/locations/australia
+Summary,Percentile,,Median,96956,Biomedical Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/biomedical-engineer/levels/entry-level/locations/australia
+Summary,Percentile,,Median,91336,Civil Engineer,All,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/locations/australia
+Summary,Percentile,,25th,82,Civil Engineer,All,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/locations/australia
+Summary,Percentile,,75th,129000,Civil Engineer,All,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/locations/australia
+Summary,Percentile,,90th,162000,Civil Engineer,All,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/locations/australia
+Top Company,Ranking,1,Melbourne,107524,Civil Engineer,All,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/locations/australia
+Top Company,Ranking,2,Sydney,91693,Civil Engineer,All,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/locations/australia
+Top Company,Ranking,3,Brisbane,83257,Civil Engineer,All,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/locations/australia
+Summary,Percentile,,Median,71213,Civil Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/entry-level/locations/australia
 Summary,Percentile,,25th,69,Civil Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/entry-level/locations/australia
 Summary,Percentile,,75th,88,Civil Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/entry-level/locations/australia
-Summary,Percentile,,90th,90,Civil Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/entry-level/locations/australia
-Top Company,Ranking,1,Melbourne,99319,Civil Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/entry-level/locations/australia
-Top Company,Ranking,2,Sydney,90858,Civil Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/entry-level/locations/australia
-Top Company,Ranking,3,Brisbane,82991,Civil Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/entry-level/locations/australia
-Summary,Percentile,,Median,148827,Civil Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/senior/locations/australia
-Summary,Percentile,,25th,122000,Civil Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/senior/locations/australia
+Summary,Percentile,,90th,91,Civil Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/entry-level/locations/australia
+Top Company,Ranking,1,Melbourne,107524,Civil Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/entry-level/locations/australia
+Top Company,Ranking,2,Sydney,91693,Civil Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/entry-level/locations/australia
+Top Company,Ranking,3,Brisbane,83257,Civil Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/entry-level/locations/australia
+Summary,Percentile,,Median,162044,Civil Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/senior/locations/australia
+Summary,Percentile,,25th,129000,Civil Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/senior/locations/australia
 Summary,Percentile,,75th,180000,Civil Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/senior/locations/australia
-Summary,Percentile,,90th,194000,Civil Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/senior/locations/australia
-Top Company,Ranking,1,Melbourne,99319,Civil Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/senior/locations/australia
-Top Company,Ranking,2,Sydney,90858,Civil Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/senior/locations/australia
-Top Company,Ranking,3,Brisbane,82991,Civil Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/senior/locations/australia
-Summary,Percentile,,Median,245007,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
-Summary,Percentile,,25th,201000,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
-Summary,Percentile,,75th,288000,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
-Summary,Percentile,,90th,386000,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
-Top Company,Ranking,1,Atlassian,444489,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
-Top Company,Ranking,2,Amazon,314387,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
-Top Company,Ranking,3,Canva,276425,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
-Top Location,Ranking,1,Sydney,237368,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
-Top Location,Ranking,2,Melbourne,215215,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
-Top Location,Ranking,3,Brisbane,193700,Software Engineering Manager,All,Australia,https://www.levels.fyi/en-gb/t/software-engineering-manager/locations/australia
-Summary,Percentile,,Median,111716,Chemical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/chemical-engineer/locations/australia
-Summary,Percentile,,Median,145874,Project Manager,All,Australia,https://www.levels.fyi/en-gb/t/project-manager/locations/australia
-Summary,Percentile,,25th,120000,Project Manager,All,Australia,https://www.levels.fyi/en-gb/t/project-manager/locations/australia
-Summary,Percentile,,75th,173000,Project Manager,All,Australia,https://www.levels.fyi/en-gb/t/project-manager/locations/australia
-Summary,Percentile,,90th,212000,Project Manager,All,Australia,https://www.levels.fyi/en-gb/t/project-manager/locations/australia
-Summary,Percentile,,Median,84037,Project Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/project-manager/levels/entry-level/locations/australia
-Summary,Percentile,,Median,166170,Project Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/project-manager/levels/senior/locations/australia
-Summary,Percentile,,25th,140000,Project Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/project-manager/levels/senior/locations/australia
-Summary,Percentile,,75th,178000,Project Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/project-manager/levels/senior/locations/australia
-Summary,Percentile,,90th,212000,Project Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/project-manager/levels/senior/locations/australia
-Summary,Percentile,,Median,105261,Biomedical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/biomedical-engineer/locations/australia
-Summary,Percentile,,Median,96646,Biomedical Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/biomedical-engineer/levels/entry-level/locations/australia
+Summary,Percentile,,90th,190000,Civil Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/senior/locations/australia
+Top Company,Ranking,1,Melbourne,107524,Civil Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/senior/locations/australia
+Top Company,Ranking,2,Sydney,91693,Civil Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/senior/locations/australia
+Top Company,Ranking,3,Brisbane,83257,Civil Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/civil-engineer/levels/senior/locations/australia
+Summary,Percentile,,Median,138784,Ux Researcher,All,Australia,https://www.levels.fyi/en-gb/t/ux-researcher/locations/australia
+Summary,Percentile,,25th,111000,Ux Researcher,All,Australia,https://www.levels.fyi/en-gb/t/ux-researcher/locations/australia
+Summary,Percentile,,75th,243000,Ux Researcher,All,Australia,https://www.levels.fyi/en-gb/t/ux-researcher/locations/australia
+Summary,Percentile,,90th,299000,Ux Researcher,All,Australia,https://www.levels.fyi/en-gb/t/ux-researcher/locations/australia
+Summary,Percentile,,Median,218540,Ux Researcher,Senior,Australia,https://www.levels.fyi/en-gb/t/ux-researcher/levels/senior/locations/australia
+Summary,Percentile,,25th,139000,Ux Researcher,Senior,Australia,https://www.levels.fyi/en-gb/t/ux-researcher/levels/senior/locations/australia
+Summary,Percentile,,75th,299000,Ux Researcher,Senior,Australia,https://www.levels.fyi/en-gb/t/ux-researcher/levels/senior/locations/australia
+Summary,Percentile,,90th,451000,Ux Researcher,Senior,Australia,https://www.levels.fyi/en-gb/t/ux-researcher/levels/senior/locations/australia
+Summary,Percentile,,Median,164195,Bizops Manager,All,Australia,https://www.levels.fyi/en-gb/t/bizops-manager/locations/australia
+Summary,Percentile,,25th,140000,Bizops Manager,All,Australia,https://www.levels.fyi/en-gb/t/bizops-manager/locations/australia
+Summary,Percentile,,75th,197000,Bizops Manager,All,Australia,https://www.levels.fyi/en-gb/t/bizops-manager/locations/australia
+Summary,Percentile,,90th,266000,Bizops Manager,All,Australia,https://www.levels.fyi/en-gb/t/bizops-manager/locations/australia
+Summary,Percentile,,Median,173522,Bizops Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/bizops-manager/levels/senior/locations/australia
+Summary,Percentile,,25th,140000,Bizops Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/bizops-manager/levels/senior/locations/australia
+Summary,Percentile,,75th,197000,Bizops Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/bizops-manager/levels/senior/locations/australia
+Summary,Percentile,,90th,266000,Bizops Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/bizops-manager/levels/senior/locations/australia
+Summary,Percentile,,Median,74171,Customer Service,All,Australia,https://www.levels.fyi/en-gb/t/customer-service/locations/australia
+Summary,Percentile,,25th,60,Customer Service,All,Australia,https://www.levels.fyi/en-gb/t/customer-service/locations/australia
+Summary,Percentile,,75th,101000,Customer Service,All,Australia,https://www.levels.fyi/en-gb/t/customer-service/locations/australia
+Summary,Percentile,,90th,165000,Customer Service,All,Australia,https://www.levels.fyi/en-gb/t/customer-service/locations/australia
+Top Company,Ranking,1,Atlassian,162945,Customer Service,All,Australia,https://www.levels.fyi/en-gb/t/customer-service/locations/australia
+Top Company,Ranking,2,NAB,66639,Customer Service,All,Australia,https://www.levels.fyi/en-gb/t/customer-service/locations/australia
+Top Company,Ranking,3,Commonwealth Bank,66638,Customer Service,All,Australia,https://www.levels.fyi/en-gb/t/customer-service/locations/australia
+Top Location,Ranking,1,Melbourne,65504,Customer Service,All,Australia,https://www.levels.fyi/en-gb/t/customer-service/locations/australia
+Top Location,Ranking,2,Sydney,62340,Customer Service,All,Australia,https://www.levels.fyi/en-gb/t/customer-service/locations/australia
+Top Location,Ranking,3,Brisbane,56087,Customer Service,All,Australia,https://www.levels.fyi/en-gb/t/customer-service/locations/australia
+Summary,Percentile,,Median,99654,Accountant,All,Australia,https://www.levels.fyi/en-gb/t/accountant/locations/australia
+Summary,Percentile,,25th,75,Accountant,All,Australia,https://www.levels.fyi/en-gb/t/accountant/locations/australia
+Summary,Percentile,,75th,120000,Accountant,All,Australia,https://www.levels.fyi/en-gb/t/accountant/locations/australia
+Summary,Percentile,,90th,163000,Accountant,All,Australia,https://www.levels.fyi/en-gb/t/accountant/locations/australia
+Top Company,Ranking,1,Melbourne,100282,Accountant,All,Australia,https://www.levels.fyi/en-gb/t/accountant/locations/australia
+Top Company,Ranking,2,Brisbane,79618,Accountant,All,Australia,https://www.levels.fyi/en-gb/t/accountant/locations/australia
+Top Company,Ranking,3,Sydney,78293,Accountant,All,Australia,https://www.levels.fyi/en-gb/t/accountant/locations/australia
+Summary,Percentile,,Median,64632,Accountant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/entry-level/locations/australia
+Summary,Percentile,,25th,64,Accountant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/entry-level/locations/australia
+Summary,Percentile,,75th,69,Accountant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/entry-level/locations/australia
+Summary,Percentile,,90th,99,Accountant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/entry-level/locations/australia
+Top Company,Ranking,1,Melbourne,100282,Accountant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/entry-level/locations/australia
+Top Company,Ranking,2,Brisbane,79618,Accountant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/entry-level/locations/australia
+Top Company,Ranking,3,Sydney,78293,Accountant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/entry-level/locations/australia
+Summary,Percentile,,Median,118017,Accountant,Senior,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/senior/locations/australia
+Summary,Percentile,,25th,107000,Accountant,Senior,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/senior/locations/australia
+Summary,Percentile,,75th,155000,Accountant,Senior,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/senior/locations/australia
+Summary,Percentile,,90th,165000,Accountant,Senior,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/senior/locations/australia
+Top Company,Ranking,1,Melbourne,100282,Accountant,Senior,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/senior/locations/australia
+Top Company,Ranking,2,Brisbane,79618,Accountant,Senior,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/senior/locations/australia
+Top Company,Ranking,3,Sydney,78293,Accountant,Senior,Australia,https://www.levels.fyi/en-gb/t/accountant/levels/senior/locations/australia
+Summary,Percentile,,Median,90495,Customer Service Ops,All,Australia,https://www.levels.fyi/en-gb/t/customer-service-ops/locations/australia
+Summary,Percentile,,Median,130703,Biz Ops,All,Australia,https://www.levels.fyi/en-gb/t/biz-ops/locations/australia
+Summary,Percentile,,25th,90,Biz Ops,All,Australia,https://www.levels.fyi/en-gb/t/biz-ops/locations/australia
+Summary,Percentile,,75th,150000,Biz Ops,All,Australia,https://www.levels.fyi/en-gb/t/biz-ops/locations/australia
+Summary,Percentile,,90th,178000,Biz Ops,All,Australia,https://www.levels.fyi/en-gb/t/biz-ops/locations/australia
+Summary,Percentile,,Median,78801,Biz Ops,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/biz-ops/levels/entry-level/locations/australia
+Summary,Percentile,,Median,150198,Biz Ops,Senior,Australia,https://www.levels.fyi/en-gb/t/biz-ops/levels/senior/locations/australia
+Summary,Percentile,,25th,143000,Biz Ops,Senior,Australia,https://www.levels.fyi/en-gb/t/biz-ops/levels/senior/locations/australia
+Summary,Percentile,,75th,178000,Biz Ops,Senior,Australia,https://www.levels.fyi/en-gb/t/biz-ops/levels/senior/locations/australia
+Summary,Percentile,,90th,438000,Biz Ops,Senior,Australia,https://www.levels.fyi/en-gb/t/biz-ops/levels/senior/locations/australia
+Summary,Percentile,,Median,222422,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
+Summary,Percentile,,25th,188000,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
+Summary,Percentile,,75th,263000,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
+Summary,Percentile,,90th,321000,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
+Top Company,Ranking,1,Amazon,297314,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
+Top Company,Ranking,2,Microsoft,238739,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
+Top Company,Ranking,3,Telstra,207313,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
+Top Location,Ranking,1,Sydney,240167,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
+Top Location,Ranking,2,Brisbane,227776,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
+Top Location,Ranking,3,Melbourne,216519,Solution Architect,All,Australia,https://www.levels.fyi/en-gb/t/solution-architect/locations/australia
+Summary,Percentile,,Median,124880,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
+Summary,Percentile,,25th,92,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
+Summary,Percentile,,75th,145000,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
+Summary,Percentile,,90th,157000,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
+Top Company,Ranking,1,Amazon,297314,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
+Top Company,Ranking,2,Microsoft,238739,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
+Top Company,Ranking,3,Telstra,207313,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
+Top Location,Ranking,1,Sydney,240167,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
+Top Location,Ranking,2,Brisbane,227776,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
+Top Location,Ranking,3,Melbourne,216519,Solution Architect,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/entry-level/locations/australia
+Summary,Percentile,,Median,228886,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
+Summary,Percentile,,25th,194000,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
+Summary,Percentile,,75th,272000,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
+Summary,Percentile,,90th,321000,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
+Top Company,Ranking,1,Amazon,297314,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
+Top Company,Ranking,2,Microsoft,238739,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
+Top Company,Ranking,3,Telstra,207313,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
+Top Location,Ranking,1,Sydney,240167,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
+Top Location,Ranking,2,Brisbane,227776,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
+Top Location,Ranking,3,Melbourne,216519,Solution Architect,Senior,Australia,https://www.levels.fyi/en-gb/t/solution-architect/levels/senior/locations/australia
+Summary,Percentile,,Median,133132,Venture Capitalist,All,Australia,https://www.levels.fyi/en-gb/t/venture-capitalist/locations/australia
+Summary,Percentile,,25th,117000,Venture Capitalist,All,Australia,https://www.levels.fyi/en-gb/t/venture-capitalist/locations/australia
+Summary,Percentile,,75th,209000,Venture Capitalist,All,Australia,https://www.levels.fyi/en-gb/t/venture-capitalist/locations/australia
+Summary,Percentile,,90th,234000,Venture Capitalist,All,Australia,https://www.levels.fyi/en-gb/t/venture-capitalist/locations/australia
+Summary,Percentile,,Median,92778,Hardware Engineer,All,Australia,https://www.levels.fyi/en-gb/t/hardware-engineer/locations/australia
+Summary,Percentile,,25th,80,Hardware Engineer,All,Australia,https://www.levels.fyi/en-gb/t/hardware-engineer/locations/australia
+Summary,Percentile,,75th,141000,Hardware Engineer,All,Australia,https://www.levels.fyi/en-gb/t/hardware-engineer/locations/australia
+Summary,Percentile,,90th,174000,Hardware Engineer,All,Australia,https://www.levels.fyi/en-gb/t/hardware-engineer/locations/australia
+Summary,Percentile,,Median,78462,Hardware Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/hardware-engineer/levels/entry-level/locations/australia
+Summary,Percentile,,Median,202184,Hardware Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/hardware-engineer/levels/senior/locations/australia
+Summary,Percentile,,25th,141000,Hardware Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/hardware-engineer/levels/senior/locations/australia
+Summary,Percentile,,75th,221000,Hardware Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/hardware-engineer/levels/senior/locations/australia
+Summary,Percentile,,90th,468000,Hardware Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/hardware-engineer/levels/senior/locations/australia
+Summary,Percentile,,Median,151788,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
+Summary,Percentile,,25th,113000,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
+Summary,Percentile,,75th,189000,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
+Summary,Percentile,,90th,235000,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
+Top Company,Ranking,1,Google,340458,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
+Top Company,Ranking,2,Block,268464,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
+Top Company,Ranking,3,Rokt,267736,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
+Top Location,Ranking,1,Sydney,175196,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
+Top Location,Ranking,2,Melbourne,159229,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
+Top Location,Ranking,3,Perth,133648,Software Engineer,All,Australia,https://www.levels.fyi/en-gb/t/software-engineer/locations/australia
+Summary,Percentile,,Median,90574,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
+Summary,Percentile,,25th,80,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
+Summary,Percentile,,75th,124000,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
+Summary,Percentile,,90th,160000,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
+Top Company,Ranking,1,Google,340458,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
+Top Company,Ranking,2,Block,268464,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
+Top Company,Ranking,3,Rokt,267736,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
+Top Location,Ranking,1,Sydney,175196,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
+Top Location,Ranking,2,Melbourne,159229,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
+Top Location,Ranking,3,Perth,133648,Software Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/entry-level/locations/australia
+Summary,Percentile,,Median,183583,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
+Summary,Percentile,,25th,156000,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
+Summary,Percentile,,75th,224000,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
+Summary,Percentile,,90th,284000,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
+Top Company,Ranking,1,Google,340458,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
+Top Company,Ranking,2,Block,268464,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
+Top Company,Ranking,3,Rokt,267736,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
+Top Location,Ranking,1,Sydney,175196,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
+Top Location,Ranking,2,Melbourne,159229,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
+Top Location,Ranking,3,Perth,133648,Software Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/software-engineer/levels/senior/locations/australia
+Summary,Percentile,,Median,106929,Mechanical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/locations/australia
+Summary,Percentile,,25th,92,Mechanical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/locations/australia
+Summary,Percentile,,75th,128000,Mechanical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/locations/australia
+Summary,Percentile,,90th,188000,Mechanical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/locations/australia
+Top Company,Ranking,1,Sydney,125033,Mechanical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/locations/australia
+Top Company,Ranking,2,Perth,124104,Mechanical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/locations/australia
+Top Company,Ranking,3,Brisbane,116147,Mechanical Engineer,All,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/locations/australia
+Summary,Percentile,,Median,75101,Mechanical Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/entry-level/locations/australia
+Summary,Percentile,,25th,72,Mechanical Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/entry-level/locations/australia
+Summary,Percentile,,75th,81,Mechanical Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/entry-level/locations/australia
+Summary,Percentile,,90th,88,Mechanical Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/entry-level/locations/australia
+Top Company,Ranking,1,Sydney,125033,Mechanical Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/entry-level/locations/australia
+Top Company,Ranking,2,Perth,124104,Mechanical Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/entry-level/locations/australia
+Top Company,Ranking,3,Brisbane,116147,Mechanical Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/entry-level/locations/australia
+Summary,Percentile,,Median,127702,Mechanical Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/senior/locations/australia
+Summary,Percentile,,25th,107000,Mechanical Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/senior/locations/australia
+Summary,Percentile,,75th,153000,Mechanical Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/senior/locations/australia
+Summary,Percentile,,90th,195000,Mechanical Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/senior/locations/australia
+Top Company,Ranking,1,Sydney,125033,Mechanical Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/senior/locations/australia
+Top Company,Ranking,2,Perth,124104,Mechanical Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/senior/locations/australia
+Top Company,Ranking,3,Brisbane,116147,Mechanical Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/mechanical-engineer/levels/senior/locations/australia
+Summary,Percentile,,Median,194342,Sales Engineer,All,Australia,https://www.levels.fyi/en-gb/t/sales-engineer/locations/australia
+Summary,Percentile,,25th,145000,Sales Engineer,All,Australia,https://www.levels.fyi/en-gb/t/sales-engineer/locations/australia
+Summary,Percentile,,75th,262000,Sales Engineer,All,Australia,https://www.levels.fyi/en-gb/t/sales-engineer/locations/australia
+Summary,Percentile,,90th,325000,Sales Engineer,All,Australia,https://www.levels.fyi/en-gb/t/sales-engineer/locations/australia
+Summary,Percentile,,Median,128351,Sales Engineer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/sales-engineer/levels/entry-level/locations/australia
+Summary,Percentile,,Median,233230,Sales Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/sales-engineer/levels/senior/locations/australia
+Summary,Percentile,,25th,174000,Sales Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/sales-engineer/levels/senior/locations/australia
+Summary,Percentile,,75th,282000,Sales Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/sales-engineer/levels/senior/locations/australia
+Summary,Percentile,,90th,391000,Sales Engineer,Senior,Australia,https://www.levels.fyi/en-gb/t/sales-engineer/levels/senior/locations/australia
+Summary,Percentile,,Median,147351,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
+Summary,Percentile,,25th,124000,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
+Summary,Percentile,,75th,175000,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
+Summary,Percentile,,90th,203000,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
+Top Company,Ranking,1,Atlassian,255793,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
+Top Company,Ranking,2,Canva,182634,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
+Top Company,Ranking,3,WooliesX,174675,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
+Top Location,Ranking,1,Brisbane,186797,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
+Top Location,Ranking,2,Sydney,147351,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
+Top Location,Ranking,3,Melbourne,147149,Product Designer,All,Australia,https://www.levels.fyi/en-gb/t/product-designer/locations/australia
+Summary,Percentile,,Median,87228,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
+Summary,Percentile,,25th,79,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
+Summary,Percentile,,75th,104000,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
+Summary,Percentile,,90th,122000,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
+Top Company,Ranking,1,Atlassian,255793,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
+Top Company,Ranking,2,Canva,182634,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
+Top Company,Ranking,3,WooliesX,174675,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
+Top Location,Ranking,1,Brisbane,186797,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
+Top Location,Ranking,2,Sydney,147351,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
+Top Location,Ranking,3,Melbourne,147149,Product Designer,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/entry-level/locations/australia
+Summary,Percentile,,Median,161703,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
+Summary,Percentile,,25th,138000,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
+Summary,Percentile,,75th,200000,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
+Summary,Percentile,,90th,209000,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
+Top Company,Ranking,1,Atlassian,255793,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
+Top Company,Ranking,2,Canva,182634,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
+Top Company,Ranking,3,WooliesX,174675,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
+Top Location,Ranking,1,Brisbane,186797,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
+Top Location,Ranking,2,Sydney,147351,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
+Top Location,Ranking,3,Melbourne,147149,Product Designer,Senior,Australia,https://www.levels.fyi/en-gb/t/product-designer/levels/senior/locations/australia
+Summary,Percentile,,Median,67171,Administrative Assistant,All,Australia,https://www.levels.fyi/en-gb/t/administrative-assistant/locations/australia
+Summary,Percentile,,25th,62,Administrative Assistant,All,Australia,https://www.levels.fyi/en-gb/t/administrative-assistant/locations/australia
+Summary,Percentile,,75th,84,Administrative Assistant,All,Australia,https://www.levels.fyi/en-gb/t/administrative-assistant/locations/australia
+Summary,Percentile,,90th,108000,Administrative Assistant,All,Australia,https://www.levels.fyi/en-gb/t/administrative-assistant/locations/australia
+Summary,Percentile,,Median,61927,Administrative Assistant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/administrative-assistant/levels/entry-level/locations/australia
+Summary,Percentile,,25th,50,Administrative Assistant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/administrative-assistant/levels/entry-level/locations/australia
+Summary,Percentile,,75th,70,Administrative Assistant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/administrative-assistant/levels/entry-level/locations/australia
+Summary,Percentile,,90th,82,Administrative Assistant,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/administrative-assistant/levels/entry-level/locations/australia
+Summary,Percentile,,Median,102342,Administrative Assistant,Senior,Australia,https://www.levels.fyi/en-gb/t/administrative-assistant/levels/senior/locations/australia
+Summary,Percentile,,Median,181205,Business Development,All,Australia,https://www.levels.fyi/en-gb/t/business-development/locations/australia
+Summary,Percentile,,25th,124000,Business Development,All,Australia,https://www.levels.fyi/en-gb/t/business-development/locations/australia
+Summary,Percentile,,75th,300000,Business Development,All,Australia,https://www.levels.fyi/en-gb/t/business-development/locations/australia
+Summary,Percentile,,90th,377000,Business Development,All,Australia,https://www.levels.fyi/en-gb/t/business-development/locations/australia
+Summary,Percentile,,Median,77411,Business Development,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/business-development/levels/entry-level/locations/australia
+Summary,Percentile,,Median,264884,Business Development,Senior,Australia,https://www.levels.fyi/en-gb/t/business-development/levels/senior/locations/australia
+Summary,Percentile,,25th,163000,Business Development,Senior,Australia,https://www.levels.fyi/en-gb/t/business-development/levels/senior/locations/australia
+Summary,Percentile,,75th,324000,Business Development,Senior,Australia,https://www.levels.fyi/en-gb/t/business-development/levels/senior/locations/australia
+Summary,Percentile,,90th,377000,Business Development,Senior,Australia,https://www.levels.fyi/en-gb/t/business-development/levels/senior/locations/australia
+Summary,Percentile,,Median,230506,Chief Of Staff,All,Australia,https://www.levels.fyi/en-gb/t/chief-of-staff/locations/australia
+Summary,Percentile,,25th,172000,Chief Of Staff,All,Australia,https://www.levels.fyi/en-gb/t/chief-of-staff/locations/australia
+Summary,Percentile,,75th,274000,Chief Of Staff,All,Australia,https://www.levels.fyi/en-gb/t/chief-of-staff/locations/australia
+Summary,Percentile,,90th,349000,Chief Of Staff,All,Australia,https://www.levels.fyi/en-gb/t/chief-of-staff/locations/australia
+Summary,Percentile,,Median,172935,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
+Summary,Percentile,,25th,152000,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
+Summary,Percentile,,75th,208000,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
+Summary,Percentile,,90th,252000,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
+Top Company,Ranking,1,Atlassian,281436,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
+Top Company,Ranking,2,Amazon,208987,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
+Top Company,Ranking,3,REA Group,203747,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
+Top Location,Ranking,1,Perth,210728,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
+Top Location,Ranking,2,Melbourne,184983,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
+Top Location,Ranking,3,Sydney,173133,Product Manager,All,Australia,https://www.levels.fyi/en-gb/t/product-manager/locations/australia
+Summary,Percentile,,Median,123929,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
+Summary,Percentile,,25th,104000,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
+Summary,Percentile,,75th,166000,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
+Summary,Percentile,,90th,202000,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
+Top Company,Ranking,1,Atlassian,281436,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
+Top Company,Ranking,2,Amazon,208987,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
+Top Company,Ranking,3,REA Group,203747,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
+Top Location,Ranking,1,Perth,210728,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
+Top Location,Ranking,2,Melbourne,184983,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
+Top Location,Ranking,3,Sydney,173133,Product Manager,Entry-Level,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/entry-level/locations/australia
+Summary,Percentile,,Median,195903,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
+Summary,Percentile,,25th,171000,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
+Summary,Percentile,,75th,215000,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
+Summary,Percentile,,90th,281000,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
+Top Company,Ranking,1,Atlassian,281436,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
+Top Company,Ranking,2,Amazon,208987,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
+Top Company,Ranking,3,REA Group,203747,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
+Top Location,Ranking,1,Perth,210728,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
+Top Location,Ranking,2,Melbourne,184983,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia
+Top Location,Ranking,3,Sydney,173133,Product Manager,Senior,Australia,https://www.levels.fyi/en-gb/t/product-manager/levels/senior/locations/australia

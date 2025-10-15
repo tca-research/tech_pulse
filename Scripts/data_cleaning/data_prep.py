@@ -26,7 +26,7 @@ if run_script:
 try:
     wgea_salary_df = pd.read_csv('Data/input/tech_sector_salaries/wgea/WGEA_salary_data.csv')
     abn_df = pd.read_csv('Data/input/tech_sector_salaries/tca/Tech_Council_ABNs.csv')
-    jobs_per_industry = pd.read_csv("Data/input/tech_sector_jobs/workers in the tech sector.csv")
+    jobs_per_industry = pd.read_csv("Data/input/tech_sector_jobs/lfs-tablebuilder/workers in the tech sector.csv")
     levels_fyi_salaries_df = pd.read_csv("Data/input/tech_sector_salaries/levels_fyi/au_levelsfyi_detailed_data.csv")
     ict_job_ad_salary = pd.read_csv("Data/input/tech_sector_salaries/seek/SEEK average advertised salary - ICT v other - July 2025.csv", skiprows=3)
     wgea_comp = pd.read_csv("Data/input/wgea_public_dataset_2024/wgea_workforce_composition_2024.csv")
@@ -336,6 +336,12 @@ mapping_data = pd.DataFrame({
         round(tech_council_wgea_salary_df['Upper-middle quartile % women'].mean() * 100, 1),
         round(tech_council_wgea_salary_df['Upper quartile % women'].mean() * 100, 1)
     ],
+    'Tech Sector (TCA Members) - % Men - Average': [
+        100 - round(tech_council_wgea_salary_df['Lower quartile % women'].mean() * 100, 1),
+        100 - round(tech_council_wgea_salary_df['Lower-middle quartile % women'].mean() * 100, 1),
+        100 - round(tech_council_wgea_salary_df['Upper-middle quartile % women'].mean() * 100, 1),
+        100 - round(tech_council_wgea_salary_df['Upper quartile % women'].mean() * 100, 1)
+    ],
     'Tech Sector (TCA Members) - Example Roles': [
         f"Quartile 1 band include, on average, an  {picked_1[0].lower()}, a {picked_1[1].lower()}, a {picked_1[2].lower()}, or a {picked_2[3].lower()}.",
         f"Low-mid quartile roles include, on average, an {picked_2[0].lower()}, a {picked_2[1].lower()}, a {picked_2[2].lower()}, or a {picked_2[3].lower()}.",
@@ -349,12 +355,15 @@ mapping_data['Tech Sector (TCA Members) - Example Roles'] = mapping_data['Tech S
 
 mapping_data_total= pd.DataFrame({
     'WGEA Quartile': ['Total workforce'],
-    'Tech Sector (TCA Members) Salaries - Average': [f"${avg_wgea_total_salaries[f'Total workforce']:,.0f}"],
+    'Tech Sector (TCA Members) Salaries - Average': [f"${avg_wgea_total_salaries['Total workforce']:,.0f}"],
     'Gender - Average': [
         f"{tech_council_wgea_salary_df['Total workforce % women'].mean():.1%} women, {1 - tech_council_wgea_salary_df['Total workforce % women'].mean():.1%} men"
     ],
     'Tech Sector (TCA Members) - % Women - Average': [
         round(tech_council_wgea_salary_df['Total workforce % women'].mean() * 100, 1),
+    ],
+    'Tech Sector (TCA Members) - % Men - Average': [
+        100 - round(tech_council_wgea_salary_df['Total workforce % women'].mean() * 100, 1),
     ],
     'Tech Sector (TCA Members) - Example Roles': ['']
 })
@@ -397,10 +406,10 @@ direct_tech_avg['Gender Split (avg across group)'] = direct_tech_avg['% women']
 direct_tech_avg = direct_tech_avg[['WGEA Quartile', 'WGEA Avg Salary (avg across group)', 'Gender Split (avg across group)']]
 
 quartile_map = {
-    "Lower quartile": "Q1 (Lower Quartile)",
-    "Lower-middle quartile": "Q2 (Lower-middle Quartile)",
-    "Upper-middle quartile": "Q3 (Upper-middle Quartile)",
-    "Upper quartile": "Q4 (Upper Quartile)",
+    "Lower quartile": "Q1 (Lower quartile)",
+    "Lower-middle quartile": "Q2 (Lower-middle quartile)",
+    "Upper-middle quartile": "Q3 (Upper-middle quartile)",
+    "Upper quartile": "Q4 (Upper quartile)",
     "Total workforce": "Total workforce"
 }
 
@@ -412,6 +421,10 @@ direct_tech_avg['Direct Tech Gender - Average'] = direct_tech_avg['Gender Split 
 )
 direct_tech_avg['Direct Tech - % Women - Average'] = direct_tech_avg['Gender Split (avg across group)'].apply(
     lambda x: f"{x*100:.3}"
+)
+
+direct_tech_avg['Direct Tech - % Men - Average'] = direct_tech_avg['Gender Split (avg across group)'].apply(
+    lambda x: f"{100-(x*100):.3}"
 )
 direct_tech_avg.drop(columns=['WGEA Avg Salary (avg across group)', 'Gender Split (avg across group)'], inplace=True)
 quartile_order = ["Q1 (Lower quartile)", "Q2 (Lower-middle quartile)", 
