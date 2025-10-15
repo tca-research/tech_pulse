@@ -18,7 +18,7 @@ if os.path.exists(levels_csv_path):
         run_script = False
 # Run the script only if CSV is older than 1 week or missing
 if run_script:
-    with open("Scripts/data_cleaning/levels_fyi.py") as f:
+    with open("Scripts/scrape_levels_fyi.py") as f:
         levels_fyi_scrape_code = f.read()
     exec(levels_fyi_scrape_code)
 
