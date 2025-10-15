@@ -1,13 +1,10 @@
 Sector,manager_type,Men,Women
-Direct Tech Sector (All Companies),Mid to entry level management,1548,832
-Direct Tech Sector (All Companies),Non-managers,5042,2714
-Direct Tech Sector (All Companies),Top level management,128,81
-Financial and Insurance Services,Mid to entry level management,3491,3555
-Financial and Insurance Services,Non-managers,9763,11322
-Financial and Insurance Services,Top level management,174,113
-"Professional, Scientific and Technical Services",Mid to entry level management,6513,4943
-"Professional, Scientific and Technical Services",Non-managers,17979,15582
-"Professional, Scientific and Technical Services",Top level management,526,340
-Tech Sector (TCA Members),Mid to entry level management,790,433
-Tech Sector (TCA Members),Non-managers,2615,1715
-Tech Sector (TCA Members),Top level management,58,49
+Australian Average,Mid to entry level management,36977,35761
+Australian Average,Non-managers,109803,115614
+Australian Average,Top level management,2235,1626
+Direct Tech Sector Companies,Mid to entry level management,1548,832
+Direct Tech Sector Companies,Non-managers,5042,2714
+Direct Tech Sector Companies,Top level management,128,81
+TCA Members Companies,Mid to entry level management,790,433
+TCA Members Companies,Non-managers,2615,1715
+TCA Members Companies,Top level management,58,49

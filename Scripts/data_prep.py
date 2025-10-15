@@ -217,10 +217,7 @@ for col in percentage_columns:
     tech_council_wgea_salary_df[col] = pd.to_numeric(tech_council_wgea_salary_df[col], errors='coerce') / 100
 
 # Define the other sectors of interest
-other_sectors_df = wgea_salary_df[wgea_salary_df['Industry (ANZSIC Division)'].isin([
-    'Financial and Insurance Services',
-    'Professional, Scientific and Technical Services'
-])].copy()
+other_sectors_df = wgea_salary_df
 
 # Group by industry division and calculate the average salary and women percentage
 sector_comparison_df = other_sectors_df.groupby('Industry (ANZSIC Division)').agg(
@@ -230,9 +227,9 @@ sector_comparison_df = other_sectors_df.groupby('Industry (ANZSIC Division)').ag
 
 anzsic_class = ['Software Publishing', 'Internet Publishing and Broadcasting', 'Telecommunications Services', 'Internet Service Providers and Web Search Portals', 'Data Processing and Web Hosting Services', 'Computer System Design and Related Services']
 direct_tech_sector_df =  wgea_salary_df[wgea_salary_df['Industry (ANZSIC Class)'].isin(anzsic_class)]
-direct_tech_sector_df['Sector'] = 'Direct Tech Sector'
+direct_tech_sector_df['Sector'] = 'Direct Tech Sector Companies'
 
-direct_tech_sector_df['Industry (ANZSIC Division)'] = 'Direct Tech Sector (All Companies)'
+direct_tech_sector_df['Industry (ANZSIC Division)'] = 'Direct Tech Sector Companies'
 
 direct_tech_sector_df = direct_tech_sector_df.groupby('Industry (ANZSIC Division)').agg(
     Avg_Total_Remuneration=('Total workforce - average total remuneration ($)*', 'mean'),
@@ -242,7 +239,7 @@ direct_tech_sector_df = direct_tech_sector_df.groupby('Industry (ANZSIC Division
 # Add the tech sector to the comparison
 tech_avg_remuneration = tech_council_wgea_salary_df['Total workforce - average total remuneration ($)*'].mean()
 tech_avg_women = tech_council_wgea_salary_df['Total workforce % women'].mean()
-tech_row = pd.DataFrame([['Tech Sector (TCA Members)', tech_avg_remuneration, tech_avg_women]], 
+tech_row = pd.DataFrame([['TCA Member Companies', tech_avg_remuneration, tech_avg_women]], 
                         columns=['Industry (ANZSIC Division)', 'Avg_Total_Remuneration', 'Avg_Women_Percentage'])
 
 ### Cross-Sector Comparison (Average Salary & Gender Representation) 
@@ -323,26 +320,26 @@ picked_4 = random.sample(q4_examples, 4)
 # Create the final conceptual mapping DataFrame with a more narrative style
 mapping_data = pd.DataFrame({
     'WGEA Quartile': [f'Q{i} ({"Lower" if i == 1 else "Lower-middle" if i == 2 else "Upper-middle" if i == 3 else "Upper"} quartile)' for i in range(1, 5)],
-    'Tech Sector (TCA Members) Salaries - Average': [f"${avg_wgea_quartile_salaries[f'Q{i}']:,.0f}" for i in range(1, 5)],
+    'TCA Member Salaries - Average': [f"${avg_wgea_quartile_salaries[f'Q{i}']:,.0f}" for i in range(1, 5)],
     'Gender - Average': [
         f"{tech_council_wgea_salary_df['Lower quartile % women'].mean():.1%} women, {1 - tech_council_wgea_salary_df['Lower quartile % women'].mean():.1%} men",
         f"{tech_council_wgea_salary_df['Lower-middle quartile % women'].mean():.1%} women, {1 - tech_council_wgea_salary_df['Lower-middle quartile % women'].mean():.1%} men",
         f"{tech_council_wgea_salary_df['Upper-middle quartile % women'].mean():.1%} women, {1 - tech_council_wgea_salary_df['Upper-middle quartile % women'].mean():.1%} men",
         f"{tech_council_wgea_salary_df['Upper quartile % women'].mean():.1%} women, {1 - tech_council_wgea_salary_df['Upper quartile % women'].mean():.1%} men"
     ],
-    'Tech Sector (TCA Members) - % Women - Average': [
+    'TCA Members - % Women - Average': [
         round(tech_council_wgea_salary_df['Lower quartile % women'].mean() * 100, 1),
         round(tech_council_wgea_salary_df['Lower-middle quartile % women'].mean() * 100, 1),
         round(tech_council_wgea_salary_df['Upper-middle quartile % women'].mean() * 100, 1),
         round(tech_council_wgea_salary_df['Upper quartile % women'].mean() * 100, 1)
     ],
-    'Tech Sector (TCA Members) - % Men - Average': [
+    'TCA Members - % Men - Average': [
         100 - round(tech_council_wgea_salary_df['Lower quartile % women'].mean() * 100, 1),
         100 - round(tech_council_wgea_salary_df['Lower-middle quartile % women'].mean() * 100, 1),
         100 - round(tech_council_wgea_salary_df['Upper-middle quartile % women'].mean() * 100, 1),
         100 - round(tech_council_wgea_salary_df['Upper quartile % women'].mean() * 100, 1)
     ],
-    'Tech Sector (TCA Members) - Example Roles': [
+    'TCA Members - Example Roles': [
         f"Quartile 1 band include, on average, an  {picked_1[0].lower()}, a {picked_1[1].lower()}, a {picked_1[2].lower()}, or a {picked_2[3].lower()}.",
         f"Low-mid quartile roles include, on average, an {picked_2[0].lower()}, a {picked_2[1].lower()}, a {picked_2[2].lower()}, or a {picked_2[3].lower()}.",
         f"Mid-upper quartile roles include, on average, an {picked_3[0].lower()}, a {picked_3[1].lower()}, a {picked_3[2].lower()}, or a {picked_3[3].lower()}.",
@@ -350,22 +347,22 @@ mapping_data = pd.DataFrame({
         ]
 })
 
-mapping_data['Tech Sector (TCA Members) - Example Roles'] = mapping_data['Tech Sector (TCA Members) - Example Roles'].str.replace(r"\ban\s+([bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ])", r"a \1", regex=True)
-mapping_data['Tech Sector (TCA Members) - Example Roles'] = mapping_data['Tech Sector (TCA Members) - Example Roles'].str.replace(r"(\d+th)\s(?!p)(\w+)", r"\1 percentile \2", regex=True, case=False)
+mapping_data['TCA Members - Example Roles'] = mapping_data['TCA Members - Example Roles'].str.replace(r"\ban\s+([bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ])", r"a \1", regex=True)
+mapping_data['TCA Members - Example Roles'] = mapping_data['TCA Members - Example Roles'].str.replace(r"(\d+th)\s(?!p)(\w+)", r"\1 percentile \2", regex=True, case=False)
 
 mapping_data_total= pd.DataFrame({
     'WGEA Quartile': ['Total workforce'],
-    'Tech Sector (TCA Members) Salaries - Average': [f"${avg_wgea_total_salaries['Total workforce']:,.0f}"],
+    'TCA Member Salaries - Average': [f"${avg_wgea_total_salaries['Total workforce']:,.0f}"],
     'Gender - Average': [
         f"{tech_council_wgea_salary_df['Total workforce % women'].mean():.1%} women, {1 - tech_council_wgea_salary_df['Total workforce % women'].mean():.1%} men"
     ],
-    'Tech Sector (TCA Members) - % Women - Average': [
+    'TCA Members - % Women - Average': [
         round(tech_council_wgea_salary_df['Total workforce % women'].mean() * 100, 1),
     ],
-    'Tech Sector (TCA Members) - % Men - Average': [
+    'TCA Members - % Men - Average': [
         100 - round(tech_council_wgea_salary_df['Total workforce % women'].mean() * 100, 1),
     ],
-    'Tech Sector (TCA Members) - Example Roles': ['']
+    'TCA Members - Example Roles': ['']
 })
 
 mapping_data = pd.concat([mapping_data, mapping_data_total])
@@ -463,9 +460,9 @@ direct_tech_sector_comp =  wgea_workforce_composition[wgea_workforce_composition
 wgea_workforce_composition['employer_abn'] = wgea_workforce_composition['employer_abn'].astype(str).str.rstrip('.0')
 tca_sector_comp = wgea_workforce_composition[wgea_workforce_composition['employer_abn'].isin(abn_df['ABN'])].copy()
 
-tca_sector_comp['Sector'] = 'Tech Sector (TCA Members)'
+tca_sector_comp['Sector'] = 'TCA Member Companies'
 other_sectors_comp['Sector'] = wgea_workforce_composition['anzsic_division']
-direct_tech_sector_comp['Sector'] = 'Direct Tech Sector (All Companies)'
+direct_tech_sector_comp['Sector'] = 'Direct Tech Sector Companies'
 
 comp_sum = pd.concat([tca_sector_comp, direct_tech_sector_comp, other_sectors_comp])[['Sector', 'occupation', 'gender', 'n_employees']].groupby(['Sector', 'occupation', 'gender']).sum(numeric_only=True)
 
@@ -481,19 +478,16 @@ comp_pct.to_csv('Data/output/dashboard/workplace_leadership_comp_pct.csv', index
 
 wgea_mgmt_promotions = wgea_mgmt[wgea_mgmt['movement_type'] == 'Promotions']
 
-other_sectors_mgmt_promotions = wgea_mgmt_promotions[wgea_mgmt_promotions['anzsic_division'].isin([
-    'Financial and Insurance Services',
-    'Professional, Scientific and Technical Services'
-])].copy()
+other_sectors_mgmt_promotions = wgea_mgmt_promotions
 
 direct_tech_sector_mgmt_promotions =  wgea_mgmt_promotions[wgea_mgmt_promotions['anzsic_class'].isin(anzsic_class)]
 
 wgea_mgmt_promotions['employer_abn'] = wgea_mgmt_promotions['employer_abn'].astype(str)
 tca_sector_mgmt_promotions =  wgea_mgmt_promotions[wgea_mgmt_promotions['employer_abn'].isin(abn_df['ABN'])].copy()
 
-tca_sector_mgmt_promotions['Sector'] = 'Tech Sector (TCA Members)'
-other_sectors_mgmt_promotions['Sector'] = wgea_mgmt_promotions['anzsic_division']
-direct_tech_sector_mgmt_promotions['Sector'] = 'Direct Tech Sector (All Companies)'
+tca_sector_mgmt_promotions['Sector'] = 'TCA Members Companies'
+other_sectors_mgmt_promotions['Sector'] = 'Australian Average'
+direct_tech_sector_mgmt_promotions['Sector'] = 'Direct Tech Sector Companies'
 
 promos_sum = pd.concat([tca_sector_mgmt_promotions, direct_tech_sector_mgmt_promotions, other_sectors_mgmt_promotions])[['Sector', 'manager_type', 'gender', 'n_employees']].groupby(['Sector', 'manager_type', 'gender']).sum(numeric_only=True)
 
