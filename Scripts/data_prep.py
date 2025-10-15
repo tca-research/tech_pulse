@@ -553,9 +553,59 @@ region_map = {
 }
 
 ai_total_ranking["region"] = ai_total_ranking["country"].map(region_map)
+
+cols = list(ai_total_ranking.columns)
+cols.insert(1, cols.pop(cols.index('Total')))
+ai_total_ranking = ai_total_ranking[cols]
 ai_total_ranking.to_csv('Data/output/dashboard/global_ai_rankings.csv', index = False)
 
 ## R&D
+
+rd = pd.read_csv("Data/input/tech_international_benchmarks/r_and_d/r_and_d_pc_gdp_oecd.csv", skiprows=2)
+rd['% of GDP'] = round(rd['% of GDP'], 1)
+
+region_map = {
+    "Israel": "EMEA",
+    "Korea": "APAC",
+    "United States": "Americas",
+    "Sweden": "EMEA",
+    "Belgium": "EMEA",
+    "Japan": "APAC",
+    "Austria": "EMEA",
+    "Switzerland": "EMEA",
+    "Germany": "EMEA",
+    "Finland": "EMEA",
+    "United Kingdom": "EMEA",
+    "Denmark": "EMEA",
+    "Iceland": "EMEA",
+    "Netherlands": "EMEA",
+    "France": "EMEA",
+    "Slovenia": "EMEA",
+    "Czechia": "EMEA",
+    "Norway": "EMEA",
+    "Canada": "Americas",
+    "Estonia": "EMEA",
+    "Portugal": "EMEA",
+    "Australia": "APAC",
+    "Hungary": "EMEA",
+    "New Zealand": "APAC",
+    "Greece": "EMEA",
+    "Poland": "EMEA",
+    "Italy": "EMEA",
+    "Türkiye": "EMEA",
+    "Spain": "EMEA",
+    "Lithuania": "EMEA",
+    "Ireland": "EMEA",
+    "Luxembourg": "EMEA",
+    "Slovak Rep.": "EMEA",
+    "Latvia": "EMEA",
+    "Chile": "Americas",
+    "Costa Rica": "Americas"
+}
+
+rd["Region"] = rd["Category"].map(region_map)
+
+rd.to_csv('Data/output/dashboard/global_r_and_d_rankings.csv', index = False)
 
 ## ENERGY USAGE
 renewable_energy_usage = pd.read_csv("https://ourworldindata.org/grapher/renewable-share-energy.csv?v=1&csvType=full&useColumnShortNames=true", storage_options = {'User-Agent': 'Our World In Data data fetch/1.0'})
@@ -651,5 +701,52 @@ country_to_region = {
 }
 renewable_energy_usage_24['Region'] = renewable_energy_usage_24['Entity'].map(country_to_region)
 renewable_energy_usage_24.to_csv('Data/output/dashboard/global_renewable_energy_usage_rankings.csv', index = False)
+
 ## SKILLS
 
+
+skills = pd.read_csv("Data/input/tech_international_benchmarks/skills/skills_readiness_adoption_index_oecd.csv", skiprows=1)
+
+
+region_map = {
+    "Israel": "EMEA",
+    "Korea": "APAC",
+    "United States": "Americas",
+    "Sweden": "EMEA",
+    "Belgium": "EMEA",
+    "Japan": "APAC",
+    "Austria": "EMEA",
+    "Switzerland": "EMEA",
+    "Germany": "EMEA",
+    "Finland": "EMEA",
+    "United Kingdom": "EMEA",
+    "Denmark": "EMEA",
+    "Iceland": "EMEA",
+    "Netherlands": "EMEA",
+    "France": "EMEA",
+    "Slovenia": "EMEA",
+    "Czechia": "EMEA",
+    "Norway": "EMEA",
+    "Canada": "Americas",
+    "Estonia": "EMEA",
+    "Portugal": "EMEA",
+    "Australia": "APAC",
+    "Hungary": "EMEA",
+    "New Zealand": "APAC",
+    "Greece": "EMEA",
+    "Poland": "EMEA",
+    "Italy": "EMEA",
+    "Türkiye": "EMEA",
+    "Spain": "EMEA",
+    "Lithuania": "EMEA",
+    "Ireland": "EMEA",
+    "Luxembourg": "EMEA",
+    "Slovak Rep.": "EMEA",
+    "Latvia": "EMEA",
+    "Chile": "Americas",
+    "Costa Rica": "Americas"
+}
+
+skills["Region"] = skills["Category"].map(region_map)
+
+skills.to_csv('Data/output/dashboard/global_skills_rankings.csv', index = False)
