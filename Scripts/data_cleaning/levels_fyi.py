@@ -3,10 +3,6 @@ from bs4 import BeautifulSoup
 import re
 import csv
 import os
-from dotenv import load_dotenv
-
-_ = load_dotenv(os.path.expanduser("~/.env"), verbose=False)
-os.chdir(os.getenv("FILE_PATH")+"2508 - Jobs Data")
 
 HEADERS = {
     "User-Agent": (
@@ -118,7 +114,7 @@ if __name__ == "__main__":
             entry["data_exists"] = "No data available"
 
     os.makedirs("Data/levels_fyi", exist_ok=True)
-    with open("Data/levels_fyi/au_levelsfyi_urls_with_data_flags.csv", "w", newline="", encoding="utf-8") as f:
+    with open("Data/input/tech_sector_salaries/levels_fyi/au_levelsfyi_urls_with_data_flags.csv", "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=["URL", "job_title", "level", "country", "data_exists"])
         writer.writeheader()
         writer.writerows(urls)
@@ -176,7 +172,7 @@ if __name__ == "__main__":
             })
 
 
-        final_csv_path = "Data/levels_fyi/au_levelsfyi_detailed_data.csv"
+        final_csv_path = "Data/input/tech_sector_salaries/levels_fyi/au_levelsfyi_detailed_data.csv"
         with open(final_csv_path, "w", newline="", encoding="utf-8") as f:
             fieldnames = ["Metric", "Measurement", "Rank Order", "Label", "Salary", "Job Title", "Level", "Country", "URL"]
             writer = csv.DictWriter(f, fieldnames=fieldnames)

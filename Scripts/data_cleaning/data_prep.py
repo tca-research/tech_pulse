@@ -3,9 +3,37 @@ import numpy as np
 import rpy2.robjects as ro
 from rpy2.robjects import pandas2ri, conversion
 import random
+import os
+import time
 
+levels_csv_path = "Data/input/tech_sector_salaries/levels_fyi/au_levelsfyi_detailed_data.csv"
 
-#os.chdir(os.path.expanduser("~/work/tech_pulse"))
+# Check if CSV exists and its age
+run_script = True
+if os.path.exists(levels_csv_path):
+    mtime = os.path.getmtime(levels_csv_path)
+    age_seconds = time.time() - mtime
+    one_week_seconds = 7 * 24 * 60 * 60
+    if age_seconds < one_week_seconds:
+        run_script = False
+# Run the script only if CSV is older than 1 week or missing
+if run_script:
+    with open("Scripts/data_cleaning/levels_fyi.py") as f:
+        levels_fyi_scrape_code = f.read()
+    exec(levels_fyi_scrape_code)
+
+# Load datasets for analysis
+try:
+    wgea_salary_df = pd.read_csv('Data/input/tech_sector_salaries/wgea/WGEA_salary_data.csv')
+    abn_df = pd.read_csv('Data/input/tech_sector_salaries/tca/Tech_Council_ABNs.csv')
+    jobs_per_industry = pd.read_csv("Data/input/tech_sector_jobs/workers in the tech sector.csv")
+    levels_fyi_salaries_df = pd.read_csv("Data/input/tech_sector_salaries/levels_fyi/au_levelsfyi_detailed_data.csv")
+    ict_job_ad_salary = pd.read_csv("Data/input/tech_sector_salaries/seek/SEEK average advertised salary - ICT v other - July 2025.csv", skiprows=3)
+    wgea_comp = pd.read_csv("Data/input/wgea_public_dataset_2024/wgea_workforce_composition_2024.csv")
+    wgea_mgmt = pd.read_csv("Data/input/wgea_public_dataset_2024/wgea_workforce_management_statistics_2024.csv")
+except FileNotFoundError as e:
+    print(f"Error: {e}. Please ensure all data files are in the correct directories.")
+    exit()
 
 # TECH ROLES & TALENT
 #--------------------#
@@ -105,7 +133,6 @@ lfs_perc_occ.to_csv('Data/output/dashboard/tech_jobs_tech_occupations_as_percent
 
 ## -- Data downloaded from Table Builder
 
-jobs_per_industry = pd.read_csv("Data/input/tech_sector_jobs/workers in the tech sector.csv")
 jobs_per_industry['Date'] = jobs_per_industry['Date'].fillna(method='ffill')
 jobs_per_industry['Number'] = jobs_per_industry['Number'] * 1000
 
@@ -120,7 +147,6 @@ jobs_tech.pivot(index = 'Date', columns = 'Industry', values = 'Number').to_csv(
 
 ## SALARY DISTRICTUION BY TECH ROLES & CAREER STAGE
 
-levels_fyi_salaries_df = pd.read_csv("Data/input/tech_sector_salaries/levels_fyi/au_levelsfyi_detailed_data.csv")
 levels_fyi_salaries_df['Salary'] = levels_fyi_salaries_df['Salary'].apply(lambda x: x * 1000 if 10 <= x < 100 else x)
 salary_levels_summary = levels_fyi_salaries_df[(levels_fyi_salaries_df['Metric'] == "Summary")]
 salary_levels_summary.to_csv('Data/output/dashboard/tech_jobs_pay_within_percentile_level_occupation.csv', index = False)
@@ -141,21 +167,12 @@ top_rank.to_csv('Data/output/dashboard/tech_jobs_top_rank_long.csv', index = Fal
 ## ICT PAY JOB ADS
 
 ## -- Data directly received from SEEK
-ict_job_ad_salary = pd.read_csv("Data/input/tech_sector_salaries/seek/SEEK average advertised salary - ICT v other - July 2025.csv", skiprows=3)
 ict_job_ad_salary  = ict_job_ad_salary.pivot(index = 'date', columns = 'industry', values= 'ave_salary').reset_index()
 ict_job_ad_salary['date'] = pd.to_datetime(ict_job_ad_salary['date'], format = '%d/%m/%Y')
 ict_job_ad_salary['Month Year'] = ict_job_ad_salary['date'].dt.strftime('%B %Y')
 ict_job_ad_salary.to_csv('Data/output/dashboard/ict_job_ads.csv', index = False)
 
 ## CROSS SECTOR COMPARISIONS
-
-### LOAD WGEA DATA SET
-try:
-    wgea_salary_df = pd.read_csv('Data/input/tech_sector_salaries/wgea/WGEA_salary_data.csv')
-    abn_df = pd.read_csv('Data/input/tech_sector_salaries/tca/Tech_Council_ABNs.csv')
-except FileNotFoundError as e:
-    print(f"Error: {e}. Please ensure all three data files are in the same directory.")
-    exit()
 
 # Convert ABN columns to string for consistent merging and filtering
 wgea_salary_df['Employer ABN'] = wgea_salary_df['Employer ABN'].astype(str)
@@ -415,7 +432,6 @@ mapping_data.to_csv('Data/output/dashboard/tech_pay_quartiles.csv', index = Fals
 ## WOMENS PAY SCALES IN TECH
 
 ## WOMEN IN LEADERSHIP BY SECTOR
-wgea_comp = pd.read_csv("Data/input/wgea_public_dataset_2024/wgea_workforce_composition_2024.csv")
 wgea_comp.loc[wgea_comp['manager_category'] == 'Non-manager', 'occupation'] = 'Non-managers'
 
 wgea_comp['occupation'] = wgea_comp['occupation'].replace({'Key Management Personnel': 'Other managers', 'Overseas Reporting Managers': 'Other managers'})
@@ -442,11 +458,10 @@ comp_sum['pct'] = round((
 ) * 100, 1)
 
 comp_pct = comp_sum.reset_index().pivot(columns='gender', values='pct', index=['Sector', 'occupation']).reset_index()
-comp_pct.to_csv('Data/dashboard/workplace_leadership_comp_pct.csv', index = False)
+comp_pct.to_csv('Data/output/dashboard/workplace_leadership_comp_pct.csv', index = False)
 
 ## WOMEN PROMOTION RATES BY MANAGERIAL LEVEL & SECTOR
 
-wgea_mgmt = pd.read_csv("Data/input/wgea_public_dataset_2024/wgea_workforce_management_statistics_2024.csv")
 wgea_mgmt_promotions = wgea_mgmt[wgea_mgmt['movement_type'] == 'Promotions']
 
 other_sectors_mgmt_promotions = wgea_mgmt_promotions[wgea_mgmt_promotions['anzsic_division'].isin([
