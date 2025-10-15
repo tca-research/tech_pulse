@@ -373,14 +373,16 @@ mapping_data = pd.concat([mapping_data, mapping_data_total])
 direct_tech_sector =  wgea_salary_df[wgea_salary_df['Industry (ANZSIC Class)'].isin(anzsic_class)]
 direct_tech_sector['Sector'] = 'Direct Tech Sector'
 direct_tech_avg = direct_tech_sector.groupby('Sector').mean(numeric_only=True).reset_index()[[
-        'Sector', 
-        'Total workforce % women', 'Upper quartile % women', 'Upper-middle quartile % women',
-       'Lower-middle quartile % women', 'Lower quartile % women',
-       'Total workforce - average total remuneration ($)*',
-       'Upper quartile - average total remuneration ($)',
-       'Upper-middle quartile - average total remuneration ($)',
-       'Lower-middle quartile  - average total remuneration ($)',
-       'Lower quartile - average total remuneration ($)']]
+    'Sector', 
+    'Total workforce % women', 
+    'Upper quartile % women', 
+    'Upper-middle quartile % women',
+    'Lower-middle quartile % women', 'Lower quartile % women',
+    'Total workforce - average total remuneration ($)*',
+    'Upper quartile - average total remuneration ($)',
+    'Upper-middle quartile - average total remuneration ($)',
+    'Lower-middle quartile  - average total remuneration ($)',
+    'Lower quartile - average total remuneration ($)']]
 
 direct_tech_avg_long = direct_tech_avg.melt(
     id_vars="Sector",
@@ -509,6 +511,9 @@ promos_n.to_csv('Data/output/dashboard/mgmt_promotions_n.csv', index = False)
 #---------------------------#
 #---------------------------#
 ## AI
+
+ai_total_ranking = pd.read_csv('Data/input/tech_international_benchmarks/ai/global AI vibrancy indices.csv',  usecols=[0, 1, 2]).pivot(index = 'country', columns = 'index', values= 'score').reset_index()
+ai_total_ranking.to_csv('Data/output/dashboard/global_ai_rankings.csv', index = False)
 
 ## R&D
 
