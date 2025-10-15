@@ -513,6 +513,45 @@ promos_n.to_csv('Data/output/dashboard/mgmt_promotions_n.csv', index = False)
 ## AI
 
 ai_total_ranking = pd.read_csv('Data/input/tech_international_benchmarks/ai/global AI vibrancy indices.csv',  usecols=[0, 1, 2]).pivot(index = 'country', columns = 'index', values= 'score').reset_index()
+continent_map = {
+    "United States": "North America",
+    "China": "Asia",
+    "United Kingdom": "Europe",
+    "India": "Asia",
+    "United Arab Emirates": "Asia",
+    "France": "Europe",
+    "South Korea": "Asia",
+    "Germany": "Europe",
+    "Japan": "Asia",
+    "Singapore": "Asia–Pacific",
+    "Spain": "Europe",
+    "Luxembourg": "Europe",
+    "Belgium": "Europe",
+    "Canada": "North America",
+    "Netherlands": "Europe",
+    "Israel": "Asia",
+    "Denmark": "Europe",
+    "Norway": "Europe",
+    "Portugal": "Europe",
+    "Finland": "Europe",
+    "Switzerland": "Europe",
+    "Italy": "Europe",
+    "Austria": "Europe",
+    "Poland": "Europe",
+    "Sweden": "Europe",
+    "Malaysia": "Asia–Pacific",
+    "Saudi Arabia": "Asia",
+    "Australia": "Asia–Pacific",
+    "Russia": "Europe/Asia",
+    "Ireland": "Europe",
+    "Turkey": "Europe/Asia",
+    "Estonia": "Europe",
+    "Mexico": "North America",
+    "Brazil": "South America",
+    "New Zealand": "Asia–Pacific",
+    "South Africa": "Africa"
+}
+ai_total_ranking["continent"] = ai_total_ranking["country"].map(continent_map)
 ai_total_ranking.to_csv('Data/output/dashboard/global_ai_rankings.csv', index = False)
 
 ## R&D
