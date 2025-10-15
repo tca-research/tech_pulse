@@ -557,7 +557,99 @@ ai_total_ranking.to_csv('Data/output/dashboard/global_ai_rankings.csv', index = 
 
 ## R&D
 
-## SCIENCE & INNOVATION - GREEN ECONOMY
+## ENERGY USAGE
+renewable_energy_usage = pd.read_csv("https://ourworldindata.org/grapher/renewable-share-energy.csv?v=1&csvType=full&useColumnShortNames=true", storage_options = {'User-Agent': 'Our World In Data data fetch/1.0'})
+renewable_energy_usage = renewable_energy_usage[renewable_energy_usage['Code'].notna()]
+renewable_energy_usage_24 = renewable_energy_usage[renewable_energy_usage['Year'] == 2024]
+renewable_energy_usage_24 = renewable_energy_usage_24[renewable_energy_usage_24['Entity'] != "World"].sort_values(by='renewables__pct_equivalent_primary_energy', ascending=False)
 
+country_to_region = {
+    # APAC
+    "New Zealand": "APAC",
+    "Australia": "APAC",
+    "China": "APAC",
+    "Japan": "APAC",
+    "South Korea": "APAC",
+    "Taiwan": "APAC",
+    "India": "APAC",
+    "Sri Lanka": "APAC",
+    "Vietnam": "APAC",
+    "Indonesia": "APAC",
+    "Malaysia": "APAC",
+    "Philippines": "APAC",
+    "Bangladesh": "APAC",
+    "Hong Kong": "APAC",
+    "Uzbekistan": "APAC",
+    "Kazakhstan": "APAC",
+    "Turkmenistan": "APAC",
+    
+    # Americas
+    "Brazil": "Americas",
+    "Argentina": "Americas",
+    "Chile": "Americas",
+    "Colombia": "Americas",
+    "Peru": "Americas",
+    "Venezuela": "Americas",
+    "Mexico": "Americas",
+    "Canada": "Americas",
+    "United States": "Americas",
+    "Trinidad and Tobago": "Americas",
+    
+    # EMEA (Europe + Middle East + Africa)
+    "Iceland": "EMEA",
+    "Norway": "EMEA",
+    "Sweden": "EMEA",
+    "Denmark": "EMEA",
+    "Finland": "EMEA",
+    "Austria": "EMEA",
+    "Switzerland": "EMEA",
+    "Portugal": "EMEA",
+    "Spain": "EMEA",
+    "Latvia": "EMEA",
+    "Lithuania": "EMEA",
+    "Croatia": "EMEA",
+    "Slovenia": "EMEA",
+    "Germany": "EMEA",
+    "Ireland": "EMEA",
+    "United Kingdom": "EMEA",
+    "Greece": "EMEA",
+    "Italy": "EMEA",
+    "Turkey": "EMEA",
+    "Romania": "EMEA",
+    "Netherlands": "EMEA",
+    "Estonia": "EMEA",
+    "France": "EMEA",
+    "Bulgaria": "EMEA",
+    "North Macedonia": "EMEA",
+    "Luxembourg": "EMEA",
+    "Poland": "EMEA",
+    "Belgium": "EMEA",
+    "Slovakia": "EMEA",
+    "Czechia": "EMEA",
+    "Belarus": "EMEA",
+    "Russia": "EMEA",
+    "Israel": "EMEA",
+    "Cyprus": "EMEA",
+    "Egypt": "EMEA",
+    "Morocco": "EMEA",
+    "United Arab Emirates": "EMEA",
+    "Iran": "EMEA",
+    "Oman": "EMEA",
+    "Qatar": "EMEA",
+    "Saudi Arabia": "EMEA",
+    "Iraq": "EMEA",
+    "Kuwait": "EMEA",
+    "Algeria": "EMEA",
+    "Ukraine": "EMEA",
+    "Azerbaijan": "APAC",
+    "Thailand": "APAC",
+    "Ecuador": "Americas",
+    "Pakistan": "APAC",
+    "South Africa": "EMEA",
+    "Singapore": "APAC",
+    "Hungary": "EMEA"
+}
+renewable_energy_usage_24['Region'] = renewable_energy_usage_24['Entity'].map(country_to_region)
+renewable_energy_usage_24.to_csv('Data/output/dashboard/global_renewable_energy_usage_rankings.csv', index = False)
 ## SKILLS
 
