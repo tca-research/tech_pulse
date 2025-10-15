@@ -25,12 +25,12 @@ if run_script:
 # Load datasets for analysis
 try:
     wgea_salary_df = pd.read_csv('Data/input/tech_sector_salaries/wgea/WGEA_salary_data.csv')
+    wgea_workforce_composition = pd.read_csv("Data/input/wgea_public_dataset_2024/wgea_workforce_composition_2024.csv")
+    wgea_mgmt = pd.read_csv("Data/input/wgea_public_dataset_2024/wgea_workforce_management_statistics_2024.csv")
     abn_df = pd.read_csv('Data/input/tech_sector_salaries/tca/Tech_Council_ABNs.csv')
     jobs_per_industry = pd.read_csv("Data/input/tech_sector_jobs/lfs-tablebuilder/workers in the tech sector.csv")
     levels_fyi_salaries_df = pd.read_csv("Data/input/tech_sector_salaries/levels_fyi/au_levelsfyi_detailed_data.csv")
     ict_job_ad_salary = pd.read_csv("Data/input/tech_sector_salaries/seek/SEEK average advertised salary - ICT v other - July 2025.csv", skiprows=3)
-    wgea_comp = pd.read_csv("Data/input/wgea_public_dataset_2024/wgea_workforce_composition_2024.csv")
-    wgea_mgmt = pd.read_csv("Data/input/wgea_public_dataset_2024/wgea_workforce_management_statistics_2024.csv")
 except FileNotFoundError as e:
     print(f"Error: {e}. Please ensure all data files are in the correct directories.")
     exit()
@@ -447,22 +447,22 @@ mapping_data.to_csv('Data/output/dashboard/tech_pay_quartiles.csv', index = Fals
 ### See tech pay quartiles above. 
 
 ## WOMEN IN LEADERSHIP BY SECTOR
-wgea_comp.loc[wgea_comp['manager_category'] == 'Non-manager', 'occupation'] = 'Non-managers'
+wgea_workforce_composition.loc[wgea_workforce_composition['manager_category'] == 'Non-manager', 'occupation'] = 'Non-managers'
 
-wgea_comp['occupation'] = wgea_comp['occupation'].replace({'Key Management Personnel': 'Other managers', 'Overseas Reporting Managers': 'Other managers'})
+wgea_workforce_composition['occupation'] = wgea_workforce_composition['occupation'].replace({'Key Management Personnel': 'Other managers', 'Overseas Reporting Managers': 'Other managers'})
 
-other_sectors_comp = wgea_comp[wgea_comp['anzsic_division'].isin([
+other_sectors_comp = wgea_workforce_composition[wgea_workforce_composition['anzsic_division'].isin([
     'Financial and Insurance Services',
     'Professional, Scientific and Technical Services'
 ])].copy()
 
-direct_tech_sector_comp =  wgea_comp[wgea_comp['anzsic_class'].isin(anzsic_class)]
+direct_tech_sector_comp =  wgea_workforce_composition[wgea_workforce_composition['anzsic_class'].isin(anzsic_class)]
 
-wgea_comp['employer_abn'] = wgea_comp['employer_abn'].astype(str).str.rstrip('.0')
-tca_sector_comp = wgea_comp[wgea_comp['employer_abn'].isin(abn_df['ABN'])].copy()
+wgea_workforce_composition['employer_abn'] = wgea_workforce_composition['employer_abn'].astype(str).str.rstrip('.0')
+tca_sector_comp = wgea_workforce_composition[wgea_workforce_composition['employer_abn'].isin(abn_df['ABN'])].copy()
 
 tca_sector_comp['Sector'] = 'Tech Sector (TCA Members)'
-other_sectors_comp['Sector'] = wgea_comp['anzsic_division']
+other_sectors_comp['Sector'] = wgea_workforce_composition['anzsic_division']
 direct_tech_sector_comp['Sector'] = 'Direct Tech Sector (All Companies)'
 
 comp_sum = pd.concat([tca_sector_comp, direct_tech_sector_comp, other_sectors_comp])[['Sector', 'occupation', 'gender', 'n_employees']].groupby(['Sector', 'occupation', 'gender']).sum(numeric_only=True)
