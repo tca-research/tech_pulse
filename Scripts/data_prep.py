@@ -444,6 +444,8 @@ mapping_data.to_csv('Data/output/dashboard/tech_pay_quartiles.csv', index = Fals
 #--------------#
 ## WOMENS PAY SCALES IN TECH
 
+### See tech pay quartiles above. 
+
 ## WOMEN IN LEADERSHIP BY SECTOR
 wgea_comp.loc[wgea_comp['manager_category'] == 'Non-manager', 'occupation'] = 'Non-managers'
 
